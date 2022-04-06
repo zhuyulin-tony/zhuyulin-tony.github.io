@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Kaifa ZHAO"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,73 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+- Ph.D. Candidate
+- Department of Computing  
+  The Hong Kong Polytechnic University  
+  QT405, Chow Yei Ching Building, PolyU  
+  Hung Hom, Kowloon, Hong Kong SAR, China
+- E-mail: kaifa dot zhao (at) connect dot edu dot hk, zhaokaifa (at) qq dot com
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+## Biography
+Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong Polytechnic University, supervised by [Prof. Xiapu Luo](http://www4.comp.polyu.edu.hk/~csxluo/). He obtained his M.S. in Jiangnan University, advised by [Prof. Pengjiang Qian](http://ai.jiangnan.edu.cn/info/1013/1509.htm). His current research interests include Mobile Security, AI Security, Machine Learning, Software Engineering.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## Education
+- 09/2019 - current, Ph.D., The Hong Kong Polytechnic University
+- 09/2016 - 06/2019, M.S., Jiangnan University
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=fbbYlrgAAAAJ&hl=zh-TW))
+- **SAID: State-aware Defense Against Injection Attacks on In-vehicle Network**
+  [[paper]](/files/SAID.pdf)
+  [[tool]](https://github.com/rewhy/said)
+  Lei Xue, Yangyang Liu, Tianqi Li, <u>Kaifa Zhao</u>, Jianfeng Li, Le Yu, Xiapu Luo, Yajin Zhou, and Guofei Gu
+  Proceedings of the 31st USENIX Security Symposium (**USENIX Security(https://www.usenix.org/conference/usenixsecurity22)**), August, 2022
+- **Towards Automatically Reverse Engineering Vehicle Diagnostic Protocols**
+  [[paper]](/files/Toward_sec22.pdf)
+  Le Yu, yangyang Liu, Pengfei Jing, Xiapu Luo, Lei Xue, <u>Kaifa Zhao</u>, Yajin Zhou, Ting Wang, Guofei Gu, Sen Nie, and Shi Wu
+Proceedings of the 31st USENIX Security Symposium (**USENIX Security(https://www.usenix.org/conference/usenixsecurity22)**), August, 2022
+- **Binarizedattack: Structural poisoning attacks to graph-based anomaly detection**
+  [[paper]](/files/Binarizedattack.pdf)
+  Yulin Zhu, Yuni Lai, <u>Kaifa Zhao</u>, Xiapu Luo, Mingquan Yuan, Jian Ren, and Kai Zhou
+  38th International Conference on Data Engineering (**ICDE(https://icde2022.ieeecomputer.my/)**), May, 2022
+- **Structural Attack against Graph Based Android Malware Detection**  
+  [[paper]](/files/HRAT.pdf) 
+  [[tool]](https://sites.google.com/view/hrat)  
+  <u>Kaifa Zhao</u>, Hao Zhou, Yulin Zhu, Xian Zhan, Kai Zhou, Jianfeng Li, Le Yu, Wei Yuan, Xiapu Luo  
+  Proceedings of ACM Conference on Computer and Communications Security (**CCS(https://www.sigsac.org/ccs/CCS2021/)**), November, 2021
+- **Inaccurate Prediction Is Not Always Bad: Open-World Driver Recognition via Error Analysis**
+  [[paper]](/files/VTC.pdf)
+  Jianfeng Li, <u>Kaifa Zhao</u>, Yajuan Tang, Xiapu Luo, Xiaobo Ma
+  2021 IEEE 93rd Vehicular Technology Conference (**VTC2021-Spring**), April, 2021
+- **Auto-contouring FDG-PET/MR images for cervical cancer radiation therapy: An intelligent sequential approach using focally trained, shallow U-Nets**
+  [[paper]](/files/Atallah_IBM.pdf)
+  Atallah Baydoun, Ke Xu, Latoya A Bethell, Feifei Zhou, Jin Uk Heo, <u>Kaifa Zhao</u>, Elisha T Fredman, Rodney J Ellis, Pengjiang Qian, Raymond F Muzic Jr, Bryan J Traughber
+  Intelligence-Based Medicine, 2021
+- **View-collaborative fuzzy soft subspace clustering for automatic medical image segmentation**
+  [[paper]](/files/MVC_FSSC.pdf)
+  <u>Kaifa Zhao</u>, Yizhang Jiang, Kaijian Xia, Leyuan Zhou, Yangyang Chen, Ke Xu, Pengjiang Qian
+  Multimedia Tools and Applications (MTA), April, 2020
+- **mDixon-based synthetic CT generation for PET attenuation correction on abdomen and pelvis jointly using transfer fuzzy clustering and active learning-based classification**
+  [[paper]](/files/TMI_2019.pdf)
+  Pengjiang Qian, Yangyang Chen, Jung-Wen Kuo, Yu-Dong Zhang, Yizhang Jiang, <u>Kaifa Zhao</u>, Rose Al Helo, Harry Friel, Atallah Baydoun, Feifei Zhou, Jin Uk Heo, Norbert Avril, Karin Herrmann, Rodney Ellis, Bryan Traughber, Robert S Jones, Shitong Wang, Kuan-Hao Su, Raymond F Muzic
+  IEEE Transactions on Medical Imaging (TMI), 2019
+- **Abdominal, multi-organ, auto-contouring method for online adaptive magnetic resonance guided radiotherapy: An intelligent, multi-level fusion approach**
+  [[paper]](/files/AIM_2018.pdf)
+  Fan Liang, Pengjiang Qian, Kuan-Hao Su, Atallah Baydoun, Asha Leisser, Steven Van Hedent, Jung-Wen Kuo, <u>Kaifa Zhao</u>, Parag Parikh, Yonggang Lu, Bryan J Traughber, Raymond F Muzic Jr
+  Artificial intelligence in medicine, 2018
+- **Knowledge-leveraged transfer fuzzy C-Means for texture image segmentation with self-adaptive cluster prototype matching**
+  [[paper]](/files/KBS_2017.pdf)
+  Pengjiang Qian, <u>Kaifa Zhao</u>, Yizhang Jiang, Kuan-Hao Su, Zhaohong Deng, Shitong Wang, Raymond F Muzic Jr
+  Knowledge-based systems (KBS), 2017
 
-**Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+## Teaching Experience
+- Knowledge and information management (COMP4135), Spring 2022, Teaching Assistant
+- Human Computer interaction (COMP3423), Spring 2021, Teaching Assistant
+- Big Data Computing (COMP5434), Summer 2020, Summer 2021, Teaching Assistant
+- Human-computer Interaction Methods (COMP2222), Spring 2020, Teaching Assistant
+- Object-oriented Programming (COMP2021), Autumn 2019, Teaching Assistant
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
