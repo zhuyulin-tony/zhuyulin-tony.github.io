@@ -17,7 +17,7 @@ citation: '@inproceedings{zhao2021structural,
 
 [Download paper here](http://zacharykzhao.github.io/files/HRAT.pdf)
 
-  '''
+```
   @inproceedings{zhao2021structural,
     title={Structural Attack against Graph Based Android Malware Detection},
     author={Zhao, Kaifa and Zhou, Hao and Zhu, Yulin and Zhan, Xian and Zhou, Kai and Li, Jianfeng and Yu, Le and Yuan, Wei and Luo, Xiapu},
@@ -25,4 +25,4 @@ citation: '@inproceedings{zhao2021structural,
     pages={3218--3235},
     year={2021}
   }
-  '''
+```
