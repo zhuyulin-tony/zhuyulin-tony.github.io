@@ -64,7 +64,7 @@ Proceedings of the 31st USENIX Security Symposium (**USENIX Security(https://www
   Fan Liang, Pengjiang Qian, Kuan-Hao Su, Atallah Baydoun, Asha Leisser, Steven Van Hedent, Jung-Wen Kuo, <u>Kaifa Zhao</u>, Parag Parikh, Yonggang Lu, Bryan J Traughber, Raymond F Muzic Jr
   Artificial intelligence in medicine, 2018
 - **Knowledge-leveraged transfer fuzzy C-Means for texture image segmentation with self-adaptive cluster prototype matching**
-  [[paper]](/files/KBS_2017.pdf)
+  [[paper]](https://pubmed.ncbi.nlm.nih.gov/30050232/)
   Pengjiang Qian, <u>Kaifa Zhao</u>, Yizhang Jiang, Kuan-Hao Su, Zhaohong Deng, Shitong Wang, Raymond F Muzic Jr
   Knowledge-based systems (KBS), 2017
 
