@@ -3,7 +3,7 @@ title: "Towards Automatically Reverse Engineering Vehicle Diagnostic Protocols"
 collection: publications
 permalink: /files/Toward_sec22.pdf
 venue: '31st USENIX Security Symposium (USENIX Security)'
-date: 2022
+date: 2022-08-10
 paperurl: 'https://www.usenix.org/conference/usenixsecurity22/presentation/yu-le'
 
 
