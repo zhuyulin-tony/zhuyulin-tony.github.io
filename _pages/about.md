@@ -29,20 +29,20 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
   [[paper]](/files/SAID.pdf)
   [[tool]](https://github.com/rewhy/said)
   Lei Xue, Yangyang Liu, Tianqi Li, <u>Kaifa Zhao</u>, Jianfeng Li, Le Yu, Xiapu Luo, Yajin Zhou, and Guofei Gu
-  Proceedings of the 31st USENIX Security Symposium (**USENIX Security(https://www.usenix.org/conference/usenixsecurity22)**), August, 2022
+  Proceedings of the 31st USENIX Security Symposium ([**USENIX Security**](https://www.usenix.org/conference/usenixsecurity22)), August, 2022
 - **Towards Automatically Reverse Engineering Vehicle Diagnostic Protocols**
   [[paper]](/files/Toward_sec22.pdf)
   Le Yu, yangyang Liu, Pengfei Jing, Xiapu Luo, Lei Xue, <u>Kaifa Zhao</u>, Yajin Zhou, Ting Wang, Guofei Gu, Sen Nie, and Shi Wu
-Proceedings of the 31st USENIX Security Symposium (**USENIX Security(https://www.usenix.org/conference/usenixsecurity22)**), August, 2022
+Proceedings of the 31st USENIX Security Symposium ([**USENIX Security**](https://www.usenix.org/conference/usenixsecurity22)), August, 2022
 - **Binarizedattack: Structural poisoning attacks to graph-based anomaly detection**
   [[paper]](/files/Binarizedattack.pdf)
   Yulin Zhu, Yuni Lai, <u>Kaifa Zhao</u>, Xiapu Luo, Mingquan Yuan, Jian Ren, and Kai Zhou
-  38th International Conference on Data Engineering (**ICDE(https://icde2022.ieeecomputer.my/)**), May, 2022
+  38th International Conference on Data Engineering ([**ICDE**](https://icde2022.ieeecomputer.my/)), May, 2022
 - **Structural Attack against Graph Based Android Malware Detection**  
   [[paper]](/files/HRAT.pdf) 
   [[tool]](https://sites.google.com/view/hrat)  
   <u>Kaifa Zhao</u>, Hao Zhou, Yulin Zhu, Xian Zhan, Kai Zhou, Jianfeng Li, Le Yu, Wei Yuan, Xiapu Luo  
-  Proceedings of ACM Conference on Computer and Communications Security (**CCS(https://www.sigsac.org/ccs/CCS2021/)**), November, 2021
+  Proceedings of ACM Conference on Computer and Communications Security ([**CCS**](https://www.sigsac.org/ccs/CCS2021/)), November, 2021
 - **Inaccurate Prediction Is Not Always Bad: Open-World Driver Recognition via Error Analysis**
   [[paper]](/files/VTC.pdf)
   Jianfeng Li, <u>Kaifa Zhao</u>, Yajuan Tang, Xiapu Luo, Xiaobo Ma
