@@ -1,15 +1,30 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
+title: "Structural Attack against Graph Based Android Malware Detection"
+collection: Conference
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'November  2021'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3460120.3485387'
+citation: '@inproceedings{zhao2021structural,
+  title={Structural Attack against Graph Based Android Malware Detection},
+  author={Zhao, Kaifa and Zhou, Hao and Zhu, Yulin and Zhan, Xian and Zhou, Kai and Li, Jianfeng and Yu, Le and Yuan, Wei and Luo, Xiapu},
+  booktitle={Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security},
+  pages={3218--3235},
+  year={2021}
+}'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: 
+'''
+@inproceedings{zhao2021structural,
+  title={Structural Attack against Graph Based Android Malware Detection},
+  author={Zhao, Kaifa and Zhou, Hao and Zhu, Yulin and Zhan, Xian and Zhou, Kai and Li, Jianfeng and Yu, Le and Yuan, Wei and Luo, Xiapu},
+  booktitle={Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security},
+  pages={3218--3235},
+  year={2021}
+}
+'''
