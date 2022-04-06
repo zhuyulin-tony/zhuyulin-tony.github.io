@@ -25,17 +25,17 @@ Hao is currently a Ph.D. candidate in Department of Computing at the Hong Kong P
 
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=fbbYlrgAAAAJ&hl=zh-TW))
-- **SAID: State-aware Defense Against Injection Attacks on In-vehicle Network**
-  [[paper]](/files/SAID.pdf)
-  [[tool]](https://github.com/rewhy/said)
+- **SAID: State-aware Defense Against Injection Attacks on In-vehicle Network**  
+  [[paper]](/files/SAID.pdf)  
+  [[tool]](https://github.com/rewhy/said)  
   Lei Xue, Yangyang Liu, Tianqi Li, <u>Kaifa Zhao</u>, Jianfeng Li, Le Yu, Xiapu Luo, Yajin Zhou, and Guofei Gu  
   Proceedings of the 31st USENIX Security Symposium ([**USENIX Security**](https://www.usenix.org/conference/usenixsecurity22)), August, 2022  
-- **Towards Automatically Reverse Engineering Vehicle Diagnostic Protocols**
-  [[paper]](/files/Toward_sec22.pdf)
+- **Towards Automatically Reverse Engineering Vehicle Diagnostic Protocols**  
+  [[paper]](/files/Toward_sec22.pdf)  
   Le Yu, yangyang Liu, Pengfei Jing, Xiapu Luo, Lei Xue, <u>Kaifa Zhao</u>, Yajin Zhou, Ting Wang, Guofei Gu, Sen Nie, and Shi Wu   
-Proceedings of the 31st USENIX Security Symposium ([**USENIX Security**](https://www.usenix.org/conference/usenixsecurity22)), August, 2022
-- **Binarizedattack: Structural poisoning attacks to graph-based anomaly detection**
-  [[paper]](/files/Binarizedattack.pdf)
+Proceedings of the 31st USENIX Security Symposium ([**USENIX Security**](https://www.usenix.org/conference/usenixsecurity22)), August, 2022  
+- **Binarizedattack: Structural poisoning attacks to graph-based anomaly detection**  
+  [[paper]](/files/Binarizedattack.pdf)  
   Yulin Zhu, Yuni Lai, <u>Kaifa Zhao</u>, Xiapu Luo, Mingquan Yuan, Jian Ren, and Kai Zhou   
   38th International Conference on Data Engineering ([**ICDE**](https://icde2022.ieeecomputer.my/)), May, 2022  
 - **Structural Attack against Graph Based Android Malware Detection**  
@@ -48,23 +48,23 @@ Proceedings of the 31st USENIX Security Symposium ([**USENIX Security**](https:/
   Jianfeng Li, <u>Kaifa Zhao</u>, Yajuan Tang, Xiapu Luo, Xiaobo Ma  
   2021 IEEE 93rd Vehicular Technology Conference (**VTC2021-Spring**), April, 2021  
 - **Auto-contouring FDG-PET/MR images for cervical cancer radiation therapy: An intelligent sequential approach using focally trained, shallow U-Nets** 
-  [[paper]](/files/Atallah_IBM.pdf)
+  [[paper]](/files/Atallah_IBM.pdf)  
   Atallah Baydoun, Ke Xu, Latoya A Bethell, Feifei Zhou, Jin Uk Heo, <u>Kaifa Zhao</u>, Elisha T Fredman, Rodney J Ellis, Pengjiang Qian, Raymond F Muzic Jr, Bryan J Traughber  
   Intelligence-Based Medicine, 2021  
-- **View-collaborative fuzzy soft subspace clustering for automatic medical image segmentation**
-  [[paper]](/files/MVC_FSSC.pdf)
+- **View-collaborative fuzzy soft subspace clustering for automatic medical image segmentation**  
+  [[paper]](/files/MVC_FSSC.pdf)  
   <u>Kaifa Zhao</u>, Yizhang Jiang, Kaijian Xia, Leyuan Zhou, Yangyang Chen, Ke Xu, Pengjiang Qian  
   Multimedia Tools and Applications (MTA), April, 2020  
-- **mDixon-based synthetic CT generation for PET attenuation correction on abdomen and pelvis jointly using transfer fuzzy clustering and active learning-based classification**
-  [[paper]](/files/TMI_2019.pdf)
+- **mDixon-based synthetic CT generation for PET attenuation correction on abdomen and pelvis jointly using transfer fuzzy clustering and active learning-based classification**  
+  [[paper]](/files/TMI_2019.pdf)  
   Pengjiang Qian, Yangyang Chen, Jung-Wen Kuo, Yu-Dong Zhang, Yizhang Jiang, <u>Kaifa Zhao</u>, Rose Al Helo, Harry Friel, Atallah Baydoun, Feifei Zhou, Jin Uk Heo, Norbert Avril, Karin Herrmann, Rodney Ellis, Bryan Traughber, Robert S Jones, Shitong Wang, Kuan-Hao Su, Raymond F Muzic  
   IEEE Transactions on Medical Imaging (TMI), 2019
-- **Abdominal, multi-organ, auto-contouring method for online adaptive magnetic resonance guided radiotherapy: An intelligent, multi-level fusion approach**
-  [[paper]](/files/AIM_2018.pdf)
+- **Abdominal, multi-organ, auto-contouring method for online adaptive magnetic resonance guided radiotherapy: An intelligent, multi-level fusion approach**  
+  [[paper]](/files/AIM_2018.pdf)  
   Fan Liang, Pengjiang Qian, Kuan-Hao Su, Atallah Baydoun, Asha Leisser, Steven Van Hedent, Jung-Wen Kuo, <u>Kaifa Zhao</u>, Parag Parikh, Yonggang Lu, Bryan J Traughber, Raymond F Muzic Jr  
   Artificial intelligence in medicine, 2018
-- **Knowledge-leveraged transfer fuzzy C-Means for texture image segmentation with self-adaptive cluster prototype matching**
-  [[paper]](https://pubmed.ncbi.nlm.nih.gov/30050232/)
+- **Knowledge-leveraged transfer fuzzy C-Means for texture image segmentation with self-adaptive cluster prototype matching**  
+  [[paper]](https://pubmed.ncbi.nlm.nih.gov/30050232/)  
   Pengjiang Qian, <u>Kaifa Zhao</u>, Yizhang Jiang, Kuan-Hao Su, Zhaohong Deng, Shitong Wang, Raymond F Muzic Jr  
   Knowledge-based systems (KBS), 2017
 
