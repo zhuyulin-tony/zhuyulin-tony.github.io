@@ -14,7 +14,6 @@ citation: '@inproceedings{zhao2021structural,
 }'
 ---
 
-
 [Download paper here](http://zacharykzhao.github.io/files/HRAT.pdf)
 
 ```
