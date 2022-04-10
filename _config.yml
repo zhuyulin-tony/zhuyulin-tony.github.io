@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kaifa ZHAO"
+  name             : "ZHU Yulin"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate, COMP, PolyU"
+  bio              : "Ph.D., Department of Statistics, CUHK"
   location         : "Hong Kong, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=fbbYlrgAAAAJ&hl=zh-TW"
-  email            : "kaifa.zhao@connect.polyu.hk"
-  researchgate     :  "https://www.researchgate.net/profile/Kaifa-Zhao" # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=-MGpGisAAAAJ&hl=zh-CN"
+  email            : "yulinzhu@polyu.edu.hk"
+  researchgate     :  "https://www.researchgate.net/profile/Yulin-Zhu-8" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zacharykzhao"
+  github           : "zhuyulin1994"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-3102-7498"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
