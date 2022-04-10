@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "zh-HK"
-title                    : "Welcome to Kaifa's homepage!"
+title                    : "Welcome to Yulin's homepage!"
 title_separator          : "-"
-name                     : &name "Kaifa ZHAO"
-description              : &description "Ph.D. candidate in Department of Computing at The Hong Kong Polytechnic University"
-url                      : https://zacharykzhao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "ZHU Yulin"
+description              : &description "Ph.D. in Department of Statistics at The Chinese University of Hong Kong"
+url                      : https://zhuyulin.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zacharykzhao.github.io"
+repository               : "zhuyulin.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
