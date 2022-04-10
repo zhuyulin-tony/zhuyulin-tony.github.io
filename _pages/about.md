@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kaifa ZHAO"
+title: "ZHU Yulin"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-- Ph.D. Candidate
-- Department of Computing  
-  The Hong Kong Polytechnic University  
+- Ph.D. 
+- Department of Statistics
+  The Chinese University of Hong Kong  
   QT405, Chow Yei Ching Building, PolyU  
   Hung Hom, Kowloon, Hong Kong SAR, China
 - E-mail: kaifa dot zhao (at) connect dot edu dot hk, zhaokaifa (at) qq dot com
