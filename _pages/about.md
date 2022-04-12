@@ -27,7 +27,7 @@ Yulin Zhu is currently a research assistant in Department of Computing at the Ho
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=-MGpGisAAAAJ&hl=zh-CN)) 
 - **Binarizedattack: Structural Poisoning Attacks to Graph-Based Anomaly Detection**
   [[paper]](/files/Binarizedattack.pdf)  
-  <u>Yulin Zhu</u>, Yuni Lai, <u>Kaifa Zhao, Xiapu Luo, Mingquan Yuan, Jian Ren, and Kai Zhou   
+  <u>Yulin Zhu</u>, Yuni Lai, Kaifa Zhao, Xiapu Luo, Mingquan Yuan, Jian Ren, and Kai Zhou   
   38th International Conference on Data Engineering ([**ICDE**](https://icde2022.ieeecomputer.my/)), May, 2022  
 - **Structural Attack against Graph Based Android Malware Detection**
   [[paper]](/files/HRAT.pdf)
