@@ -37,7 +37,7 @@ Yulin Zhu is currently a research assistant in Department of Computing at the Ho
 - **Attacking Similarity-Based Sign Prediction**
   [[paper]](/files/VTC.pdf)  
   MT Godziszewski, TP Michalak, M Waniek, T Rahwan, Kai Zhou, <u>Yulin Zhu</u>
-  21st IEEE International Conference on Data Mining, December, 2021  
+  21st IEEE International Conference on Data Mining ([**ICDM**](https://icdm2021.auckland.ac.nz/)), December, 2021  
 
 
 ## Teaching Experience
