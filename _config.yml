@@ -10,7 +10,7 @@ locale                   : "zh-HK"
 title                    : "Welcome to Yulin's homepage!"
 title_separator          : "-"
 name                     : &name "ZHU Yulin"
-description              : &description "Ph.D. in Department of Statistics at The Chinese University of Hong Kong"
+description              : &description "PhD in Department of Statistics at The Chinese University of Hong Kong"
 url                      : "https://zhuyulin1994.github.io/zhuyulin.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhuyulin.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "ZHU Yulin"
   avatar           : "profile.png"
-  bio              : "Ph.D., Department of Statistics, CUHK"
+  bio              : "PhD, Department of Statistics, CUHK"
   location         : "Hong Kong, China"
   employer         :
   pubmed           : 
