@@ -31,10 +31,10 @@ Yulin Zhu is currently a research assistant in Department of Computing at the Ho
   <u>Yulin Zhu</u>, Yuni Lai, Kaifa Zhao, Xiapu Luo, Mingquan Yuan, Jian Ren, and Kai Zhou   
   38th International Conference on Data Engineering ([**ICDE**](https://icde2022.ieeecomputer.my/)), May, 2022  
 - **Structural Attack against Graph Based Android Malware Detection**<br>
-  Kaifa Zhao, Hao Zhou, <u>Yulin Zhu</u>, Xian Zhan, Kai Zhou, Jianfeng Li, Le Yu, Wei Yuan, Xiapu Luo 
+  Kaifa Zhao, Hao Zhou, <u>Yulin Zhu</u>, Xian Zhan, Kai Zhou, Jianfeng Li, Le Yu, Wei Yuan, Xiapu Luo<br> 
   Proceedings of ACM Conference on Computer and Communications Security ([**CCS**](https://www.sigsac.org/ccs/CCS2021/)), November, 2021  
 - **Attacking Similarity-Based Sign Prediction**<br>
-  MT Godziszewski, TP Michalak, M Waniek, T Rahwan, Kai Zhou, <u>Yulin Zhu</u>
+  MT Godziszewski, TP Michalak, M Waniek, T Rahwan, Kai Zhou, <u>Yulin Zhu</u><br>
   21st IEEE International Conference on Data Mining ([**ICDM**](https://icdm2021.auckland.ac.nz/)), December, 2021  
 
 
