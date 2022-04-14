@@ -11,9 +11,9 @@ title                    : "Welcome to Yulin's homepage!"
 title_separator          : "-"
 name                     : &name "ZHU Yulin"
 description              : &description "PhD in Department of Statistics at The Chinese University of Hong Kong"
-url                      : "https://zhuyulin1994.github.io/zhuyulin.github.io/"
+url                      : "https://zhuyulin-tony.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhuyulin.github.io"
+repository               : "zhuyulin-tony.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhuyulin1994"
+  github           : "zhuyulin-tony"
   google_plus      :
   keybase          :
   instagram        :
