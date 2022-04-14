@@ -10,7 +10,7 @@ redirect_from:
 
 - Research Assistant
 - Department of Computing, The Hong Kong Polytechnic University  
-  PQ605, PolyU  
+- PQ605, The Hong Kong Polytechnic University 
   Hung Hom, Kowloon, Hong Kong SAR, China
 - E-mail: yulinzhu@polyu.edu.hk
 
