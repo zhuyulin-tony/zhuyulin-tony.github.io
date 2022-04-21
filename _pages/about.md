@@ -25,6 +25,8 @@ Yulin Zhu is currently a research assistant in Department of Computing at the Ho
 - 09/2016 - 12/2020, Ph.D., The Chinese University of Hong Kong
 - 09/2012 - 06/2016, B.S., Wuhan University
 
+## Updates
+- One paper, BinarizedAttack, was accepted to ICDE 2022.
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=-MGpGisAAAAJ&hl=zh-CN)) 
 - **Binarizedattack: Structural Poisoning Attacks to Graph-Based Anomaly Detection**<br>
