@@ -15,7 +15,7 @@ redirect_from:
 - Email: yulinzhu@polyu.edu.hk; zhuyulin.tony@gmail.com
 
 ## Biography
-Yulin Zhu is currently a research assistant in Department of Computing at the Hong Kong Polytechnic University, supervised by [Prof. Kai Zhou](https://www4.comp.polyu.edu.hk/~kaizhou/). He obtained his B.S. in Wuhan University and Ph.D. in The Chinese University of Hong Kong advised by [Prof. FAN, Xiaodan](https://www.sta.cuhk.edu.hk/xfan). His current research interests include AI security, data security and privacy, adversarial machine learning and adversarial network analysis.
+Yulin Zhu is currently a research assistant in Department of Computing at The Hong Kong Polytechnic University, supervised by [Prof. Kai Zhou](https://www4.comp.polyu.edu.hk/~kaizhou/). He obtained his B.S. in Wuhan University and Ph.D. in The Chinese University of Hong Kong advised by [Prof. FAN, Xiaodan](https://www.sta.cuhk.edu.hk/xfan). His current research interests include AI security, data security and privacy, adversarial machine learning and adversarial network analysis.
 
 ## Professional Experience
 - 10/2020 - Now, Research Assistant, The Hong Kong Polytechnic University, Hong Kong
@@ -42,10 +42,10 @@ Yulin Zhu is currently a research assistant in Department of Computing at the Ho
 
 
 ## Teaching Experience
-- Introduction to Statistics (STAT1011), Teaching Assistant
-- Basic Methods in Biomedical Statistics (STAT3004), Teaching Assistant
-- Statistical Techniques in Life Science (STAT3210), Teaching Assistant
-- Statistics Projects (STAT4011), Teaching Assistant
+- Introduction to Statistics (STAT1011), Teaching Assistant, STAT, CUHK
+- Basic Methods in Biomedical Statistics (STAT3004), Teaching Assistant, STAT, CUHK
+- Statistical Techniques in Life Science (STAT3210), Teaching Assistant, STAT, CUHK
+- Statistics Projects (STAT4011), Teaching Assistant, STAT, CUHK
 
 
 ## Community Service
