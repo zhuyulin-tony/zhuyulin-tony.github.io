@@ -26,6 +26,7 @@ Yulin Zhu is currently a research assistant in Department of Computing at the Ho
 - 09/2012 - 06/2016, B.S., Wuhan University
 
 ## Updates
+- 05/2022: I will be funded as a postdoc with The Hong Kong Polytechnic University Postdoc Matching Fund from 07/2022.
 - 11/2021: One paper, BinarizedAttack, was accepted to ICDE 2022.
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=-MGpGisAAAAJ&hl=zh-CN)) 
