@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "ZHU Yulin"
   avatar           : "myself.png"
-  bio              : "PhD, Department of Statistics, The Chinese University of Hong Kong"
-  location         : "Hong Kong, China"
+  bio              : "PhD, STAT, CUHK"
+  location         : "HKSAR, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=-MGpGisAAAAJ&hl=zh-CN"
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-1231-1386"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
