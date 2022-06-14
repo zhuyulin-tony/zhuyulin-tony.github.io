@@ -40,6 +40,9 @@ Yulin Zhu is currently a research assistant in Department of Computing at The Ho
   MT Godziszewski, TP Michalak, M Waniek, T Rahwan, Kai Zhou, <u>Yulin Zhu</u><br>
   21st IEEE International Conference on Data Mining ([**ICDM**](https://icdm2021.auckland.ac.nz/)), December, 2021  
 
+## Recent Preprints
+- **Adversarial Robustness of Graph-based Anomaly Detection**<br>
+  <u>Yulin Zhu</u>, Yuni Lai, Kaifa Zhao, Xiapu Luo, Mingquan Yuan, Jian Ren, and Kai Zhou 
 
 ## Teaching Experience
 - Introduction to Statistics (STAT1011), Teaching Assistant, STAT, CUHK
