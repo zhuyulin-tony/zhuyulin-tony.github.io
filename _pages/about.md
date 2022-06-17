@@ -42,7 +42,7 @@ Yulin Zhu is currently a research assistant in Department of Computing at The Ho
 
 ## Recent Preprints/Under Review
 - **Adversarial Robustness of Graph-based Anomaly Detection**<br>
-  <u>Yulin Zhu</u>, Yuni Lai, Kaifa Zhao, Xiapu Luo, Mingquan Yuan, Jian Ren, and Kai Zhou 
+  <u>Yulin Zhu</u>, Yuni Lai, Kaifa Zhao, Xiapu Luo, Mingquan Yuan, Jian Ren, and Kai Zhou<br>
   Arxiv 2206.08260, 2022. ([**Arxiv**](https://arxiv.org/abs/2206.08260v1))
 
 ## Teaching Experience
