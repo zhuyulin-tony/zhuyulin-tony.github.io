@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- Research Assistant
+- Postdoctoral Fellow
 - Department of Computing, The Hong Kong Polytechnic University  
 - PQ605, The Hong Kong Polytechnic University<br> 
   Hung Hom, Kowloon, Hong Kong SAR, China
@@ -18,7 +18,8 @@ redirect_from:
 Yulin Zhu is currently a research assistant in Department of Computing at The Hong Kong Polytechnic University, supervised by [Prof. Kai Zhou](https://www4.comp.polyu.edu.hk/~kaizhou/). He obtained his B.S. in Wuhan University and Ph.D. in The Chinese University of Hong Kong advised by [Prof. FAN, Xiaodan](https://www.sta.cuhk.edu.hk/xfan). His current research interests include AI security, data security and privacy, adversarial machine learning and adversarial network analysis.
 
 ## Professional Experience
-- 10/2020 - Now, Research Assistant, The Hong Kong Polytechnic University, Hong Kong
+- 07/2022 - Now,     Postdoctoral Fellow, The Hong Kong Polytechnic University, Hong Kong
+- 10/2020 - 07/2022, Research Assistant, The Hong Kong Polytechnic University, Hong Kong
 - 01/2020 - 08/2020, Part-time Research Intern, TCL Moka International Limited, Hong Kong
 
 ## Education
