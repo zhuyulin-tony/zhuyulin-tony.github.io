@@ -34,7 +34,7 @@ Yulin Zhu is currently a postdoc in Department of Computing at The Hong Kong Pol
 - **Binarizedattack: Structural Poisoning Attacks to Graph-Based Anomaly Detection**<br>
   <u>Yulin Zhu</u>, Yuni Lai, Kaifa Zhao, Xiapu Luo, Mingquan Yuan, Jian Ren, and Kai Zhou   
   38th International Conference on Data Engineering ([**ICDE**](https://icde2022.ieeecomputer.my/)), May, 2022  
-- **Structural Attack against Graph Based Android Malware Detection**<br>
+- **Structural Attack Against Graph Based Android Malware Detection**<br>
   Kaifa Zhao, Hao Zhou, <u>Yulin Zhu</u>, Xian Zhan, Kai Zhou, Jianfeng Li, Le Yu, Wei Yuan, Xiapu Luo<br> 
   Proceedings of ACM Conference on Computer and Communications Security ([**CCS**](https://www.sigsac.org/ccs/CCS2021/)), November, 2021  
 - **Attacking Similarity-Based Sign Prediction**<br>
@@ -42,7 +42,7 @@ Yulin Zhu is currently a postdoc in Department of Computing at The Hong Kong Pol
   21st IEEE International Conference on Data Mining ([**ICDM**](https://icdm2021.auckland.ac.nz/)), December, 2021  
 
 ## Recent Preprints/Under Review
-- **Adversarial Robustness of Graph-based Anomaly Detection**<br>
+- **Adversarial Robustness of Graph-Based Anomaly Detection**<br>
   <u>Yulin Zhu</u>, Yuni Lai, Kaifa Zhao, Xiapu Luo, Mingquan Yuan, Jian Ren, and Kai Zhou<br>
   Arxiv 2206.08260, 2022. ([**Arxiv**](https://arxiv.org/abs/2206.08260v1))
 - **Towards Secrecy-Aware Attacks Against Trust Prediction in Signed Graphs**<br>
