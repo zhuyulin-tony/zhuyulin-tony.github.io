@@ -50,7 +50,7 @@ Yulin Zhu is currently a postdoc in Department of Computing at The Hong Kong Pol
   Arxiv 2206.13104, 2022. ([**Arxiv**](https://arxiv.org/abs/2206.13104))
 - **FocusedCleaner: Sanitizing Poisoned Graphs for Robust GNN-based Node Classification**<br>
   <u>Yulin Zhu</u>, Liang Tong, Kai Zhou<br>
-  Arxiv 2210.13815, 2022. ([**Arxiv**]((https://arxiv.org/abs/2210.13815)))
+  Arxiv 2210.13815, 2022. ([**Arxiv**](https://arxiv.org/abs/2210.13815))
 
 ## Teaching Experience
 - Introduction to Statistics (STAT1011), Teaching Assistant, STAT, CUHK
