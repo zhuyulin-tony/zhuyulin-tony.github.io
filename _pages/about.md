@@ -60,6 +60,6 @@ Yulin Zhu is currently a postdoc in Department of Computing at The Hong Kong Pol
 
 ## Community Service
 - Subreviewer: CIKM-2022, AAMAS-2022, AAMAS-2023.
-- External Reviewer: SIGKDD-2022
-- Reviewer: IET Communications
-- PC Member: AAAI-2023
+- External Reviewer: SIGKDD-2022.
+- Reviewer: IET Communications.
+- PC Member: AAAI-2023.
