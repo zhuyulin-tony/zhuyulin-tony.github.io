@@ -31,7 +31,7 @@ Yulin Zhu is currently a postdoc in Department of Computing at The Hong Kong Pol
 - 11/2021: One paper, BinarizedAttack, was accepted to ICDE 2022.
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=-MGpGisAAAAJ&hl=zh-CN)) 
-- **Binarizedattack: Structural Poisoning Attacks to Graph-Based Anomaly Detection**<br>
+- **BinarizedAttack: Structural Poisoning Attacks to Graph-Based Anomaly Detection**<br>
   <u>Yulin Zhu</u>, Yuni Lai, Kaifa Zhao, Xiapu Luo, Mingquan Yuan, Jian Ren, and Kai Zhou   
   38th International Conference on Data Engineering ([**ICDE**](https://icde2022.ieeecomputer.my/)), May, 2022  
 - **Structural Attack Against Graph Based Android Malware Detection**<br>
