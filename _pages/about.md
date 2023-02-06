@@ -53,7 +53,7 @@ Yulin Zhu is currently a postdoc in Department of Computing at The Hong Kong Pol
   Arxiv 2210.13815, 2022. ([**Arxiv**](https://arxiv.org/abs/2210.13815))
 - **Simple yet Effective Gradient-Free Graph Convolutional Networks**<br>
   <u>Yulin Zhu</u>, Xing Ai, Qimai Li, Xiao-Ming Wu, Kai Zhou<br>
-  Arxiv 2302.00371, 2023. ([**Arxiv**](https://arxiv.org/abs/2302.00371)
+  Arxiv 2302.00371, 2023. ([**Arxiv**](https://arxiv.org/abs/2302.00371))
 
 ## Teaching Experience
 - Introduction to Statistics (STAT1011), Teaching Assistant, STAT, CUHK
