@@ -19,7 +19,7 @@ Yulin Zhu is currently a postdoc in Department of Computing at The Hong Kong Pol
 
 ## Professional Experience
 - 07/2022 - Now,     Postdoctoral Fellow, The Hong Kong Polytechnic University, Hong Kong
-- 10/2020 - 07/2022, Research Assistant, The Hong Kong Polytechnic University, Hong Kong
+- 10/2020 - 06/2022, Research Assistant, The Hong Kong Polytechnic University, Hong Kong
 - 01/2020 - 08/2020, Part-time Research Intern, TCL Moka International Limited, Hong Kong
 
 ## Education
@@ -54,6 +54,8 @@ Yulin Zhu is currently a postdoc in Department of Computing at The Hong Kong Pol
 - **Simple yet Effective Gradient-Free Graph Convolutional Networks**<br>
   <u>Yulin Zhu</u>, Xing Ai, Qimai Li, Xiao-Ming Wu, Kai Zhou<br>
   Arxiv 2302.00371, 2023. ([**Arxiv**](https://arxiv.org/abs/2302.00371))
+- **Towards Adversarially Robust Recommendation from Adaptive Fraudster Detection**<br>
+  Yuni Lai, <u>Yulin Zhu</u>, Wenqi Fan, Xiaoge Zhang, Kai Zhou<br> 
 
 ## Teaching Experience
 - Introduction to Statistics (STAT1011), Teaching Assistant, STAT, CUHK
@@ -62,7 +64,7 @@ Yulin Zhu is currently a postdoc in Department of Computing at The Hong Kong Pol
 - Statistics Projects (STAT4011), Teaching Assistant, STAT, CUHK
 
 ## Community Service
-- Subreviewer: CIKM-2022, AAMAS-2022, AAMAS-2023.
+- Subreviewer: CIKM-2022, AAMAS-2022, AAMAS-2023, ECAI-2023.
 - External Reviewer: SIGKDD-2022.
 - Reviewer: IET Communications.
 - PC Member: AAAI-2023.
