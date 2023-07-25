@@ -55,7 +55,10 @@ Yulin Zhu is currently a postdoc in Department of Computing at The Hong Kong Pol
   <u>Yulin Zhu</u>, Xing Ai, Qimai Li, Xiao-Ming Wu, Kai Zhou<br>
   Arxiv 2302.00371, 2023. ([**Arxiv**](https://arxiv.org/abs/2302.00371))
 - **Towards Adversarially Robust Recommendation from Adaptive Fraudster Detection**<br>
-  Yuni Lai, <u>Yulin Zhu</u>, Wenqi Fan, Xiaoge Zhang, Kai Zhou<br> 
+  Yuni Lai, <u>Yulin Zhu</u>, Wenqi Fan, Xiaoge Zhang, Kai Zhou<br>
+- **Homophily-Driven Sanitation View for Robust Graph Contrastive Learning**<br>
+  <u>Yulin Zhu</u>, Xing Ai, Yevgeniy Vorobeychik, Kai Zhou<br>
+  Arxiv 2307.12555, 2023. ([**Arxiv**](https://arxiv.org/pdf/2307.12555.pdf))
 
 ## Teaching Experience
 - Introduction to Statistics (STAT1011), Teaching Assistant, STAT, CUHK
