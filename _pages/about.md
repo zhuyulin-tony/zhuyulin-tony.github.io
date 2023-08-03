@@ -42,10 +42,10 @@ Yulin Zhu is currently a postdoc in Department of Computing at The Hong Kong Pol
   21st IEEE International Conference on Data Mining ([**ICDM**](https://icdm2021.auckland.ac.nz/)), December, 2021  
 
 ## Recent Preprints/Under Review
-- **Adversarial Robustness of Graph-Based Anomaly Detection**<br>
+- **From Bi-Level to One-Level: A Framework for Structural Attacks to Graph Anomaly Detection**<br>
   <u>Yulin Zhu</u>, Yuni Lai, Kaifa Zhao, Xiapu Luo, Mingquan Yuan, Jian Ren, and Kai Zhou<br>
   Arxiv 2206.08260, 2022. ([**Arxiv**](https://arxiv.org/abs/2206.08260v1))
-- **Towards Secrecy-Aware Attacks Against Trust Prediction in Signed Graphs**<br>
+- **Towards Secrecy-Aware Attacks Against Trust Prediction in Signed Social Networks**<br>
   <u>Yulin Zhu</u>, Tomasz Michalak, Xiapu Luo, Kai Zhou<br>
   Arxiv 2206.13104, 2022. ([**Arxiv**](https://arxiv.org/abs/2206.13104))
 - **FocusedCleaner: Sanitizing Poisoned Graphs for Robust GNN-based Node Classification**<br>
