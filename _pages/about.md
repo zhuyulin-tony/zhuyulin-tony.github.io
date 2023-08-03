@@ -43,13 +43,13 @@ Yulin Zhu is currently a postdoc in Department of Computing at The Hong Kong Pol
 
 ## Recent Preprints/Under Review
 - **From Bi-Level to One-Level: A Framework for Structural Attacks to Graph Anomaly Detection**<br>
-  <u>Yulin Zhu</u>, Yuni Lai, Kaifa Zhao, Xiapu Luo, Mingquan Yuan, Jian Ren, and Kai Zhou<br>
+  <u>Yulin Zhu</u>, Yuni Lai, Kaifa Zhao, Xiapu Luo, Mingquan Yuan, Jun Wu, Jian Ren, Kai Zhou<br>
   Arxiv 2206.08260, 2022. ([**Arxiv**](https://arxiv.org/abs/2206.08260v1))
 - **Towards Secrecy-Aware Attacks Against Trust Prediction in Signed Social Networks**<br>
-  <u>Yulin Zhu</u>, Tomasz Michalak, Xiapu Luo, Kai Zhou<br>
+  <u>Yulin Zhu</u>, Tomasz Michalak, Xiapu Luo, Xiaoge Zhang, Kai Zhou<br>
   Arxiv 2206.13104, 2022. ([**Arxiv**](https://arxiv.org/abs/2206.13104))
 - **FocusedCleaner: Sanitizing Poisoned Graphs for Robust GNN-based Node Classification**<br>
-  <u>Yulin Zhu</u>, Liang Tong, Kai Zhou<br>
+  <u>Yulin Zhu</u>, Liang Tong, Gaolei Li, Xiapu Luo, Kai Zhou<br>
   Arxiv 2210.13815, 2022. ([**Arxiv**](https://arxiv.org/abs/2210.13815))
 - **Simple yet Effective Gradient-Free Graph Convolutional Networks**<br>
   <u>Yulin Zhu</u>, Xing Ai, Qimai Li, Xiao-Ming Wu, Kai Zhou<br>
