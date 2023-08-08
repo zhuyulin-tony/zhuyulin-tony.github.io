@@ -63,6 +63,9 @@ Yulin Zhu is currently a postdoc in Department of Computing at The Hong Kong Pol
 - **Dual-Space Attacks against Random-Walk-based Anomaly Detection**<br>
   Yuni Lai, Marcin Waniek, <u>Yulin Zhu</u>, Liying Li, Jingwen Wu, Tomasz P. Michalak, Talal Rahwan, Kai Zhou<br>
   Arxiv 2307.14387, 2023. ([**Arxiv**](https://arxiv.org/abs/2307.14387.pdf))
+- **Graph Anomaly Detection at Group Level: A Topology Pattern Enhanced Unsupervised Approach**<br>
+  Xing Ai, Jialong Zhou, <u>Yulin Zhu</u>, Gaolei Li, Tomasz P Michalak, Xiapu Luo, Kai Zhou<br>
+  Arxiv 2308.01063, 2023. ([**Arxiv**]([https://arxiv.org/abs/2307.14387.pdf](https://arxiv.org/pdf/2308.01063.pdf)))
 
 ## Teaching Experience
 - Introduction to Statistics (STAT1011), Teaching Assistant, STAT, CUHK
