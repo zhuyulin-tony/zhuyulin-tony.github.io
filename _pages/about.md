@@ -27,6 +27,7 @@ Yulin Zhu is currently a postdoc in Department of Computing at The Hong Kong Pol
 - 09/2012 - 06/2016, B.S., Wuhan University
 
 ## Updates
+- 10/2023: One paper, FocusedCleaner, was accepted to TKDE 2023.
 - 05/2022: I will be funded as a postdoc with The Hong Kong Polytechnic University Postdoc Matching Fund started from 07/2022.
 - 11/2021: One paper, BinarizedAttack, was accepted to ICDE 2022.
 
