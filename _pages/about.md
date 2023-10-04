@@ -31,6 +31,9 @@ Yulin Zhu is currently a postdoc in Department of Computing at The Hong Kong Pol
 - 11/2021: One paper, BinarizedAttack, was accepted to ICDE 2022.
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=-MGpGisAAAAJ&hl=zh-CN)) 
+- **FocusedCleaner: Sanitizing Poisoned Graphs for Robust GNN-based Node Classification**<br>
+  <u>Yulin Zhu</u>, Liang Tong, Gaolei Li, Xiapu Luo, Kai Zhou<br>
+  IEEE Transactions on Knowledge and Data Engineering, 2023. ([**Arxiv**](https://arxiv.org/abs/2210.13815))
 - **BinarizedAttack: Structural Poisoning Attacks to Graph-Based Anomaly Detection**<br>
   <u>Yulin Zhu</u>, Yuni Lai, Kaifa Zhao, Xiapu Luo, Mingquan Yuan, Jian Ren, and Kai Zhou   
   38th International Conference on Data Engineering ([**ICDE**](https://icde2022.ieeecomputer.my/)), May, 2022  
@@ -48,9 +51,6 @@ Yulin Zhu is currently a postdoc in Department of Computing at The Hong Kong Pol
 - **Towards Secrecy-Aware Attacks Against Trust Prediction in Signed Social Networks**<br>
   <u>Yulin Zhu</u>, Tomasz Michalak, Xiapu Luo, Xiaoge Zhang, Kai Zhou<br>
   Arxiv 2206.13104, 2022. ([**Arxiv**](https://arxiv.org/abs/2206.13104))
-- **FocusedCleaner: Sanitizing Poisoned Graphs for Robust GNN-based Node Classification**<br>
-  <u>Yulin Zhu</u>, Liang Tong, Gaolei Li, Xiapu Luo, Kai Zhou<br>
-  Arxiv 2210.13815, 2022. ([**Arxiv**](https://arxiv.org/abs/2210.13815))
 - **Simple yet Effective Gradient-Free Graph Convolutional Networks**<br>
   <u>Yulin Zhu</u>, Xing Ai, Qimai Li, Xiao-Ming Wu, Kai Zhou<br>
   Arxiv 2302.00371, 2023. ([**Arxiv**](https://arxiv.org/abs/2302.00371))
