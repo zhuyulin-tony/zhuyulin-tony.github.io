@@ -34,7 +34,7 @@ Yulin Zhu is currently a postdoc in the Department of Computing at The Hong Kong
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=-MGpGisAAAAJ&hl=zh-CN)) 
 - **FocusedCleaner: Sanitizing Poisoned Graphs for Robust GNN-based Node Classification**<br>
   <u>Yulin Zhu</u>, Liang Tong, Gaolei Li, Xiapu Luo, Kai Zhou<br>
-  IEEE Transactions on Knowledge and Data Engineering ([**TKDE**]([https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69])), October, 2023
+  IEEE Transactions on Knowledge and Data Engineering ([**TKDE**](https://www.computer.org/csdl/journal/tk)), October, 2023
 - **BinarizedAttack: Structural Poisoning Attacks to Graph-Based Anomaly Detection**<br>
   <u>Yulin Zhu</u>, Yuni Lai, Kaifa Zhao, Xiapu Luo, Mingquan Yuan, Jian Ren, and Kai Zhou   
   38th International Conference on Data Engineering ([**ICDE**](https://icde2022.ieeecomputer.my/)), May, 2022  
