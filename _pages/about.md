@@ -32,6 +32,9 @@ Yulin Zhu is currently a postdoc in the Department of Computing at The Hong Kong
 - 11/2021: One paper, BinarizedAttack, was accepted to ICDE 2022.
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=-MGpGisAAAAJ&hl=zh-CN)) 
+- **Towards Adversarially Robust Recommendation from Adaptive Fraudster Detection**<br>
+  Yuni Lai, <u>Yulin Zhu</u>, Wenqi Fan, Xiaoge Zhang, Kai Zhou<br>
+  IEEE Transactions on Information Forensics and Security ([**TIFS**](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security))
 - **FocusedCleaner: Sanitizing Poisoned Graphs for Robust GNN-based Node Classification**<br>
   <u>Yulin Zhu</u>, Liang Tong, Gaolei Li, Xiapu Luo, Kai Zhou<br>
   IEEE Transactions on Knowledge and Data Engineering ([**TKDE**](https://www.computer.org/csdl/journal/tk)), October, 2023
@@ -55,9 +58,6 @@ Yulin Zhu is currently a postdoc in the Department of Computing at The Hong Kong
 - **Simple yet Effective Gradient-Free Graph Convolutional Networks**<br>
   <u>Yulin Zhu</u>, Xing Ai, Qimai Li, Xiao-Ming Wu, Kai Zhou<br>
   Arxiv 2302.00371, 2023. ([**Arxiv**](https://arxiv.org/abs/2302.00371))
-- **Towards Adversarially Robust Recommendation from Adaptive Fraudster Detection**<br>
-  Yuni Lai, <u>Yulin Zhu</u>, Wenqi Fan, Xiaoge Zhang, Kai Zhou<br>
-  Arxiv 2211.11534, 2023. ([**Arxiv**](https://arxiv.org/abs/2211.11534))
 - **Homophily-Driven Sanitation View for Robust Graph Contrastive Learning**<br>
   <u>Yulin Zhu</u>, Xing Ai, Yevgeniy Vorobeychik, Kai Zhou<br>
   Arxiv 2307.12555, 2023. ([**Arxiv**](https://arxiv.org/pdf/2307.12555.pdf))
