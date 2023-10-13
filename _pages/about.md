@@ -34,7 +34,7 @@ Yulin Zhu is currently a postdoc in the Department of Computing at The Hong Kong
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=-MGpGisAAAAJ&hl=zh-CN)) 
 - **Towards Adversarially Robust Recommendation from Adaptive Fraudster Detection**<br>
   Yuni Lai, <u>Yulin Zhu</u>, Wenqi Fan, Xiaoge Zhang, Kai Zhou<br>
-  IEEE Transactions on Information Forensics and Security ([**TIFS**](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security))
+  IEEE Transactions on Information Forensics and Security ([**TIFS**](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security)), October, 2023
 - **FocusedCleaner: Sanitizing Poisoned Graphs for Robust GNN-based Node Classification**<br>
   <u>Yulin Zhu</u>, Liang Tong, Gaolei Li, Xiapu Luo, Kai Zhou<br>
   IEEE Transactions on Knowledge and Data Engineering ([**TKDE**](https://www.computer.org/csdl/journal/tk)), October, 2023
