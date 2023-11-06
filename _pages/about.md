@@ -64,8 +64,8 @@ Yulin Zhu is currently a postdoc in the Department of Computing at The Hong Kong
 - **Homophily-Driven Sanitation View for Robust Graph Contrastive Learning**<br>
   <u>Yulin Zhu</u>, Xing Ai, Yevgeniy Vorobeychik, Kai Zhou<br>
   Arxiv 2307.12555, 2023. ([**Arxiv**](https://arxiv.org/pdf/2307.12555.pdf))
-- **Dual-Space Attacks against Random-Walk-based Anomaly Detection**<br>
-  Yuni Lai, Marcin Waniek, <u>Yulin Zhu</u>, Liying Li, Jingwen Wu, Tomasz P. Michalak, Talal Rahwan, Kai Zhou<br>
+- **Coupled-Space Attacks against Random-Walk-based Anomaly Detection**<br>
+  Yuni Lai, Marcin Waniek, Liying Li, Jingwen Wu, <u>Yulin Zhu</u>, Tomasz P. Michalak, Talal Rahwan, Kai Zhou<br>
   Arxiv 2307.14387, 2023. ([**Arxiv**](https://arxiv.org/abs/2307.14387.pdf))
 - **Graph Anomaly Detection at Group Level: A Topology Pattern Enhanced Unsupervised Approach**<br>
   Xing Ai, Jialong Zhou, <u>Yulin Zhu</u>, Gaolei Li, Tomasz P Michalak, Xiapu Luo, Kai Zhou<br>
