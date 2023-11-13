@@ -78,7 +78,7 @@ Yulin Zhu is currently a postdoc in the Department of Computing at The Hong Kong
 - Statistics Projects (STAT4011), Teaching Assistant, STAT, CUHK
 
 ## Community Service
-- Subreviewer: CIKM-2022, AAMAS-2022, AAMAS-2023, ECAI-2023, CIKM-2023, SecureComm-2023.
+- Subreviewer: CIKM-2022, AAMAS-2022, AAMAS-2023, AAMAS-2024, ECAI-2023, CIKM-2023, SecureComm-2023.
 - External Reviewer: KDD-2022.
-- Reviewer: IET Communications, TDSC.
+- Reviewer: IET Communications, TDSC, TKDD.
 - PC Member: AAAI-2023, AAAI-2024.
