@@ -70,6 +70,8 @@ Yulin Zhu is currently a postdoc in the Department of Computing at The Hong Kong
 - **Graph Anomaly Detection at Group Level: A Topology Pattern Enhanced Unsupervised Approach**<br>
   Xing Ai, Jialong Zhou, <u>Yulin Zhu</u>, Gaolei Li, Tomasz P Michalak, Xiapu Luo, Kai Zhou<br>
   Arxiv 2308.01063, 2023. ([**Arxiv**](https://arxiv.org/pdf/2308.01063.pdf))
+- **Unleashing the Power of Indirect Attacks against Trust Prediction via Preferential Path**<be>
+  Yu Bu, <u>Yulin Zhu</u>, Longling Geng, Kai Zhou 
 
 ## Teaching Experience
 - Introduction to Statistics (STAT1011), Teaching Assistant, STAT, CUHK
