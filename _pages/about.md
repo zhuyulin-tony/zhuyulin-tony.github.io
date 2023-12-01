@@ -27,6 +27,7 @@ Yulin Zhu is currently a postdoc in the Department of Computing at The Hong Kong
 - 09/2012 - 06/2016, B.S., Wuhan University
 
 ## Updates
+- 12/2023: One paper was accepted to ICDE 2024.
 - 10/2023: One paper was accepted to TIFS 2023.
 - 10/2023: One paper, FocusedCleaner, was accepted to TKDE 2023.
 - 05/2022: I will be funded as a postdoc with The Hong Kong Polytechnic University Postdoc Matching Fund starting from 07/2022.
@@ -35,6 +36,9 @@ Yulin Zhu is currently a postdoc in the Department of Computing at The Hong Kong
 - 08/2021: One paper was accepted to CCS 2021.
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=-MGpGisAAAAJ&hl=zh-CN)) 
+- **Graph Anomaly Detection at Group Level: A Topology Pattern Enhanced Unsupervised Approach**<br>
+  Xing Ai, Jialong Zhou, <u>Yulin Zhu</u>, Gaolei Li, Tomasz P Michalak, Xiapu Luo, Kai Zhou<br>
+  40th International Conference on Data Engineering ([**ICDE**](https://icde2024.github.io/)), May, 2024
 - **Towards Adversarially Robust Recommendation from Adaptive Fraudster Detection**<br>
   Yuni Lai, <u>Yulin Zhu</u>, Wenqi Fan, Xiaoge Zhang, Kai Zhou<br>
   IEEE Transactions on Information Forensics and Security ([**TIFS**](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security)), October, 2023
@@ -67,9 +71,6 @@ Yulin Zhu is currently a postdoc in the Department of Computing at The Hong Kong
 - **Coupled-Space Attacks against Random-Walk-based Anomaly Detection**<br>
   Yuni Lai, Marcin Waniek, Liying Li, Jingwen Wu, <u>Yulin Zhu</u>, Tomasz P. Michalak, Talal Rahwan, Kai Zhou<br>
   Arxiv 2307.14387, 2023. ([**Arxiv**](https://arxiv.org/abs/2307.14387.pdf))
-- **Graph Anomaly Detection at Group Level: A Topology Pattern Enhanced Unsupervised Approach**<br>
-  Xing Ai, Jialong Zhou, <u>Yulin Zhu</u>, Gaolei Li, Tomasz P Michalak, Xiapu Luo, Kai Zhou<br>
-  Arxiv 2308.01063, 2023. ([**Arxiv**](https://arxiv.org/pdf/2308.01063.pdf))
 - **Unleashing the Power of Indirect Attacks against Trust Prediction via Preferential Path**<br>
   Yu Bu, <u>Yulin Zhu</u>, Longling Geng, Kai Zhou 
 
