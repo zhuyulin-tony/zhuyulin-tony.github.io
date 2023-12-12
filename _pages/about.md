@@ -72,7 +72,10 @@ Yulin Zhu is currently a postdoc in the Department of Computing at The Hong Kong
   Yuni Lai, Marcin Waniek, Liying Li, Jingwen Wu, <u>Yulin Zhu</u>, Tomasz P. Michalak, Talal Rahwan, Kai Zhou<br>
   Arxiv 2307.14387, 2023. ([**Arxiv**](https://arxiv.org/abs/2307.14387.pdf))
 - **Unleashing the Power of Indirect Attacks against Trust Prediction via Preferential Path**<br>
-  Yu Bu, <u>Yulin Zhu</u>, Longling Geng, Kai Zhou 
+  Yu Bu, <u>Yulin Zhu</u>, Longling Geng, Kai Zhou
+- **Node-aware Bi-smoothing: Certified Robustness against Graph Injection Attacks**<br>
+  Yuni Lai, <u>Yulin Zhu</u>, Bailin Pan, Kai Zhou<br>
+  Arxiv 2312.03979, 2023. ([**Arxiv**](https://arxiv.org/pdf/2312.03979.pdf))
 
 ## Teaching Experience
 - Introduction to Statistics (STAT1011), Teaching Assistant, STAT, CUHK
