@@ -40,7 +40,7 @@ Yulin Zhu is a postdoc in the Department of Computing at The Hong Kong Polytechn
 - **Cost Aware Untargeted Poisoning Attack Against Graph Neural Networks**<br>
   Yuwei Han, Yuni Lai, <u>Yulin Zhu</u>, Kai Zhou<br>
   2024 IEEE International Conference on Acoustics, Speech and Signal Processing ([**ICASSP**](https://2024.ieeeicassp.org/)), April, 2024
-- **Uncovering Strong Ties: A Study of Indirect Sybil Attack on Signed Social Network**<be>
+- **Uncovering Strong Ties: A Study of Indirect Sybil Attack on Signed Social Network**<br>
   Yu Bu, <u>Yulin Zhu</u>, Longling Geng, Kai Zhou<br>
   2024 IEEE International Conference on Acoustics, Speech and Signal Processing ([**ICASSP**](https://2024.ieeeicassp.org/)), April, 2024
 - **Graph Anomaly Detection at Group Level: A Topology Pattern Enhanced Unsupervised Approach**<br>
