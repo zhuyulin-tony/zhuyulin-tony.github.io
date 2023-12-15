@@ -15,7 +15,7 @@ redirect_from:
 - Email: yulinzhu@polyu.edu.hk; zhuyulin.tony@gmail.com
 
 ## Biography
-Yulin Zhu is currently a postdoc in the Department of Computing at The Hong Kong Polytechnic University, supervised by [Prof. Kai Zhou](https://www4.comp.polyu.edu.hk/~kaizhou/). He obtained his B.S. in Wuhan University and Ph.D. in The Chinese University of Hong Kong advised by [Prof. Xiaodan FAN](https://www.sta.cuhk.edu.hk/xfan). His current research interests include AI security, data security and privacy, adversarial machine learning and adversarial network analysis.
+Yulin Zhu is a postdoc in the Department of Computing at The Hong Kong Polytechnic University, supervised by [Prof. Kai Zhou](https://www4.comp.polyu.edu.hk/~kaizhou/). He obtained his B.S. in Wuhan University and Ph.D. in The Chinese University of Hong Kong advised by [Prof. Xiaodan FAN](https://www.sta.cuhk.edu.hk/xfan). His research interests include AI security, data security and privacy, adversarial machine learning and adversarial network analysis.
 
 ## Professional Experience
 - 07/2022 - Now,     Postdoctoral Fellow, The Hong Kong Polytechnic University, Hong Kong
@@ -27,6 +27,7 @@ Yulin Zhu is currently a postdoc in the Department of Computing at The Hong Kong
 - 09/2012 - 06/2016, B.S., Wuhan University
 
 ## Updates
+- 12/2023: Two papers were accepted to ICASSP 2024.
 - 12/2023: One paper was accepted to ICDE 2024.
 - 10/2023: One paper was accepted to TIFS 2023.
 - 10/2023: One paper, FocusedCleaner, was accepted to TKDE 2023.
@@ -36,6 +37,9 @@ Yulin Zhu is currently a postdoc in the Department of Computing at The Hong Kong
 - 08/2021: One paper was accepted to CCS 2021.
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=-MGpGisAAAAJ&hl=zh-CN)) 
+- **Cost Aware Untargeted Poisoning Attack Against Graph Neural Networks**<br>
+  Yuwei Han, Yuni Lai, <u>Yulin Zhu</u>, Kai Zhou<br>
+  2024 IEEE International Conference on Acoustics, Speech and Signal Processing ([**ICASSP**](https://2024.ieeeicassp.org/)), April, 2024
 - **Graph Anomaly Detection at Group Level: A Topology Pattern Enhanced Unsupervised Approach**<br>
   Xing Ai, Jialong Zhou, <u>Yulin Zhu</u>, Gaolei Li, Tomasz P Michalak, Xiapu Luo, Kai Zhou<br>
   40th International Conference on Data Engineering ([**ICDE**](https://icde2024.github.io/)), May, 2024
