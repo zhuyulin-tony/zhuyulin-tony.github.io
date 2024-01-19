@@ -83,6 +83,9 @@ Yulin Zhu is a postdoc in the Department of Computing at The Hong Kong Polytechn
 - **Node-aware Bi-smoothing: Certified Robustness against Graph Injection Attacks**<br>
   Yuni Lai, <u>Yulin Zhu</u>, Bailin Pan, Kai Zhou<br>
   Arxiv 2312.03979, 2023. ([**Arxiv**](https://arxiv.org/pdf/2312.03979.pdf))
+- **Universally Robust Graph Neural Networks by Preserving Neighbor Similarity**<br>
+  <u>Yulin Zhu</u>, Yuni Lai, Xing Ai, Kai Zhou
+  Arxiv 2401.09754, 2024. ([**Arxiv**](https://arxiv.org/abs/2401.09754))
 
 ## Teaching Experience
 - Introduction to Statistics (STAT1011), Teaching Assistant, STAT, CUHK
