@@ -15,7 +15,7 @@ redirect_from:
 - Email: yulinzhu@polyu.edu.hk; zhuyulin.tony@gmail.com
 
 ## Biography
-Yulin Zhu is a postdoc in the Department of Computing at The Hong Kong Polytechnic University, supervised by [Prof. Kai Zhou](https://www4.comp.polyu.edu.hk/~kaizhou/). He obtained his B.S. in Wuhan University and Ph.D. in The Chinese University of Hong Kong advised by [Prof. Xiaodan FAN](https://www.sta.cuhk.edu.hk/xfan). His research interests include AI security, data security and privacy, adversarial machine learning and adversarial network analysis.
+Yulin Zhu is a postdoc in the Department of Computing at The Hong Kong Polytechnic University, supervised by [Prof. Kai Zhou](https://www4.comp.polyu.edu.hk/~kaizhou/). He obtained his B.S. from Wuhan University and Ph.D. from The Chinese University of Hong Kong advised by [Prof. Xiaodan FAN](https://www.sta.cuhk.edu.hk/xfan). His research interests include AI security, data security and privacy, adversarial machine learning and adversarial network analysis.
 
 ## Professional Experience
 - 07/2022 - Now,     Postdoctoral Fellow, The Hong Kong Polytechnic University, Hong Kong
@@ -27,6 +27,7 @@ Yulin Zhu is a postdoc in the Department of Computing at The Hong Kong Polytechn
 - 09/2012 - 06/2016, B.S., Wuhan University
 
 ## Updates
+- 01/2024: One paper named FlipAttack was accepted to TIFS 2024.
 - 12/2023: Two papers were accepted to ICASSP 2024.
 - 12/2023: One paper was accepted to ICDE 2024.
 - 10/2023: One paper was accepted to TIFS 2023.
@@ -37,6 +38,9 @@ Yulin Zhu is a postdoc in the Department of Computing at The Hong Kong Polytechn
 - 08/2021: One paper was accepted to CCS 2021.
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=-MGpGisAAAAJ&hl=zh-CN)) 
+- **Towards Secrecy-Aware Attacks Against Trust Prediction in Signed Social Networks**<br>
+  <u>Yulin Zhu</u>, Tomasz Michalak, Xiapu Luo, Xiaoge Zhang, Kai Zhou<br>
+  IEEE Transactions on Information Forensics and Security ([**TIFS**](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security)), January, 2024
 - **Cost Aware Untargeted Poisoning Attack Against Graph Neural Networks**<br>
   Yuwei Han, Yuni Lai, <u>Yulin Zhu</u>, Kai Zhou<br>
   2024 IEEE International Conference on Acoustics, Speech and Signal Processing ([**ICASSP**](https://2024.ieeeicassp.org/)), April, 2024
@@ -66,9 +70,6 @@ Yulin Zhu is a postdoc in the Department of Computing at The Hong Kong Polytechn
 - **From Bi-Level to One-Level: A Framework for Structural Attacks to Graph Anomaly Detection**<br>
   <u>Yulin Zhu</u>, Yuni Lai, Kaifa Zhao, Xiapu Luo, Mingquan Yuan, Jun Wu, Jian Ren, Kai Zhou<br>
   Arxiv 2206.08260, 2022. ([**Arxiv**](https://arxiv.org/abs/2206.08260v1))
-- **Towards Secrecy-Aware Attacks Against Trust Prediction in Signed Social Networks**<br>
-  <u>Yulin Zhu</u>, Tomasz Michalak, Xiapu Luo, Xiaoge Zhang, Kai Zhou<br>
-  Arxiv 2206.13104, 2022. ([**Arxiv**](https://arxiv.org/abs/2206.13104))
 - **Simple yet Effective Gradient-Free Graph Convolutional Networks**<br>
   <u>Yulin Zhu</u>, Xing Ai, Qimai Li, Xiao-Ming Wu, Kai Zhou<br>
   Arxiv 2302.00371, 2023. ([**Arxiv**](https://arxiv.org/abs/2302.00371))
