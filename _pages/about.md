@@ -40,16 +40,16 @@ Yulin Zhu is a postdoc in the Department of Computing at The Hong Kong Polytechn
 ### Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=-MGpGisAAAAJ&hl=zh-CN)) 
 - **[TIFS]** <u>Towards Secrecy-Aware Attacks Against Trust Prediction in Signed Social Networks</u> <br>
   **Yulin Zhu**, Tomasz Michalak, Xiapu Luo, Xiaoge Zhang, Kai Zhou<br>
-  IEEE Transactions on Information Forensics and Security, January 2024, **(CCF-A)**
+  IEEE Transactions on Information Forensics and Security, January 2024, **(CCF-A, Core-A)**
 - **[ICASSP]** <u>Cost Aware Untargeted Poisoning Attack Against Graph Neural Networks</u> <br>
   Yuwei Han, Yuni Lai, **Yulin Zhu**, Kai Zhou<br>
-  2024 IEEE International Conference on Acoustics, Speech and Signal Processing, April 2024, **(CCF-B)**
+  2024 IEEE International Conference on Acoustics, Speech and Signal Processing, April 2024, **(CCF-B, Core-B)**
 - **[ICASSP]** <u>Uncovering Strong Ties: A Study of Indirect Sybil Attack on Signed Social Network</u> <br>
   Yu Bu, **Yulin Zhu**, Longling Geng, Kai Zhou<br>
-  2024 IEEE International Conference on Acoustics, Speech and Signal Processing, April 2024, **(CCF-B)**
+  2024 IEEE International Conference on Acoustics, Speech and Signal Processing, April 2024, **(CCF-B, Core-B)**
 - **[ICDE]** <u>Graph Anomaly Detection at Group Level: A Topology Pattern Enhanced Unsupervised Approach</u> <br>
   Xing Ai, Jialong Zhou, **Yulin Zhu**, Gaolei Li, Tomasz P Michalak, Xiapu Luo, Kai Zhou<br>
-  40th International Conference on Data Engineering, May 2024, **(CCF-A)**
+  40th International Conference on Data Engineering, May 2024, **(CCF-A, Core-A^*)**
 - **[TIFS]** <u>Towards Adversarially Robust Recommendation from Adaptive Fraudster Detection</u> <br>
   Yuni Lai, **Yulin Zhu**, Wenqi Fan, Xiaoge Zhang, Kai Zhou<br>
   IEEE Transactions on Information Forensics and Security, October 2023, **(CCF-A)**
