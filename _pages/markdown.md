@@ -176,7 +176,7 @@ This tag styles large blocks of code.
 .post-title {
   margin: 0 0 5px;
   font-weight: bold;
-  font-size: 5px;
+  font-size: 10px;
   line-height: 2.0;
   and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
 }
