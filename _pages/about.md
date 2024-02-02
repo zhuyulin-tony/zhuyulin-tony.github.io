@@ -38,7 +38,7 @@ Yulin Zhu is a postdoc in the Department of Computing at The Hong Kong Polytechn
 - 08/2021: One paper was accepted to CCS 2021.
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=-MGpGisAAAAJ&hl=zh-CN)) 
-- **[TIFS]** <u>Towards Secrecy-Aware Attacks Against Trust Prediction in Signed Social Networks</u>**<br>
+- **[TIFS]** <u>Towards Secrecy-Aware Attacks Against Trust Prediction in Signed Social Networks</u> <br>
   <u>Yulin Zhu</u>, Tomasz Michalak, Xiapu Luo, Xiaoge Zhang, Kai Zhou<br>
   IEEE Transactions on Information Forensics and Security, January 2024, (CCF-A)
 - **Cost Aware Untargeted Poisoning Attack Against Graph Neural Networks**<br>
