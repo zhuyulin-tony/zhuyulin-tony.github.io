@@ -14,19 +14,19 @@ redirect_from:
   Hung Hom, Kowloon, Hong Kong SAR, China
 - Email: yulinzhu@polyu.edu.hk; zhuyulin.tony@gmail.com
 
-#### Biography
+### Biography
 Yulin Zhu is a postdoc in the Department of Computing at The Hong Kong Polytechnic University, supervised by [Prof. Kai Zhou](https://www4.comp.polyu.edu.hk/~kaizhou/). He obtained his B.S. from Wuhan University and Ph.D. from The Chinese University of Hong Kong advised by [Prof. Xiaodan FAN](https://www.sta.cuhk.edu.hk/xfan). His research interests include AI security, data security and privacy, adversarial machine learning and adversarial network analysis.
 
-#### Professional Experience
+### Professional Experience
 - 07/2022 - Now,     Postdoctoral Fellow, The Hong Kong Polytechnic University, Hong Kong
 - 10/2020 - 06/2022, Research Assistant, The Hong Kong Polytechnic University, Hong Kong
 - 01/2020 - 08/2020, Part-time Research Intern, TCL Moka International Limited, Hong Kong
 
-#### Education
+### Education
 - 09/2016 - 12/2020, Ph.D., The Chinese University of Hong Kong
 - 09/2012 - 06/2016, B.S., Wuhan University
 
-#### Updates
+### Updates
 - 01/2024: One paper named FlipAttack was accepted to TIFS 2024.
 - 12/2023: Two papers were accepted to ICASSP 2024.
 - 12/2023: One paper was accepted to ICDE 2024.
@@ -37,7 +37,7 @@ Yulin Zhu is a postdoc in the Department of Computing at The Hong Kong Polytechn
 - 08/2021: One paper was accepted to ICDM 2021 as a short paper.
 - 08/2021: One paper was accepted to CCS 2021.
 
-#### Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=-MGpGisAAAAJ&hl=zh-CN)) 
+### Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=-MGpGisAAAAJ&hl=zh-CN)) 
 - **[TIFS]** <u>Towards Secrecy-Aware Attacks Against Trust Prediction in Signed Social Networks</u> <br>
   **Yulin Zhu**, Tomasz Michalak, Xiapu Luo, Xiaoge Zhang, Kai Zhou<br>
   IEEE Transactions on Information Forensics and Security, January 2024, **(CCF-A)**
@@ -66,7 +66,7 @@ Yulin Zhu is a postdoc in the Department of Computing at The Hong Kong Polytechn
   MT Godziszewski, TP Michalak, M Waniek, T Rahwan, Kai Zhou, **Yulin Zhu** <br>
   21st IEEE International Conference on Data Mining, December 2021, **(CCF-B)**  
 
-#### Recent Preprints/Under Review
+### Recent Preprints/Under Review
 - **From Bi-Level to One-Level: A Framework for Structural Attacks to Graph Anomaly Detection**<br>
   <u>Yulin Zhu</u>, Yuni Lai, Kaifa Zhao, Xiapu Luo, Mingquan Yuan, Jun Wu, Jian Ren, Kai Zhou<br>
   Arxiv 2206.08260, 2022. ([**Arxiv**](https://arxiv.org/abs/2206.08260v1))
@@ -88,13 +88,13 @@ Yulin Zhu is a postdoc in the Department of Computing at The Hong Kong Polytechn
   <u>Yulin Zhu</u>, Yuni Lai, Xing Ai, Kai Zhou<br>
   Arxiv 2401.09754, 2024. ([**Arxiv**](https://arxiv.org/abs/2401.09754))
 
-#### Teaching Experience
+### Teaching Experience
 - Introduction to Statistics (STAT1011), Teaching Assistant, STAT, CUHK
 - Basic Methods in Biomedical Statistics (STAT3004), Teaching Assistant, STAT, CUHK
 - Statistical Techniques in Life Science (STAT3210), Teaching Assistant, STAT, CUHK
 - Statistics Projects (STAT4011), Teaching Assistant, STAT, CUHK
 
-#### Community Service
+### Community Service
 - Subreviewer: CIKM-2022, AAMAS-2022, AAMAS-2023, AAMAS-2024, ECAI-2023, CIKM-2023, SecureComm-2023.
 - External Reviewer: KDD-2022.
 - Reviewer: IET Communications, TDSC, TKDD.
