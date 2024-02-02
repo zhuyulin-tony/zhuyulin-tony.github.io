@@ -39,31 +39,31 @@ Yulin Zhu is a postdoc in the Department of Computing at The Hong Kong Polytechn
 
 ## Selected Publication (More in [Google Scholar](https://scholar.google.com/citations?user=-MGpGisAAAAJ&hl=zh-CN)) 
 - **[TIFS]** <u>Towards Secrecy-Aware Attacks Against Trust Prediction in Signed Social Networks</u> <br>
-  <u>Yulin Zhu</u>, Tomasz Michalak, Xiapu Luo, Xiaoge Zhang, Kai Zhou<br>
+  **Yulin Zhu**, Tomasz Michalak, Xiapu Luo, Xiaoge Zhang, Kai Zhou<br>
   IEEE Transactions on Information Forensics and Security, January 2024, **(CCF-A)**
 - **[ICASSP]** <u>Cost Aware Untargeted Poisoning Attack Against Graph Neural Networks</u> <br>
-  Yuwei Han, Yuni Lai, <u>Yulin Zhu</u>, Kai Zhou<br>
+  Yuwei Han, Yuni Lai, **Yulin Zhu**, Kai Zhou<br>
   2024 IEEE International Conference on Acoustics, Speech and Signal Processing, April 2024, **(CCF-B)**
 - **[ICASSP]** <u>Uncovering Strong Ties: A Study of Indirect Sybil Attack on Signed Social Network</u> <br>
-  Yu Bu, <u>Yulin Zhu</u>, Longling Geng, Kai Zhou<br>
+  Yu Bu, **Yulin Zhu**, Longling Geng, Kai Zhou<br>
   2024 IEEE International Conference on Acoustics, Speech and Signal Processing, April 2024, **(CCF-B)**
 - **[ICDE]** <u>Graph Anomaly Detection at Group Level: A Topology Pattern Enhanced Unsupervised Approach</u> <br>
-  Xing Ai, Jialong Zhou, <u>Yulin Zhu</u>, Gaolei Li, Tomasz P Michalak, Xiapu Luo, Kai Zhou<br>
+  Xing Ai, Jialong Zhou, **Yulin Zhu**, Gaolei Li, Tomasz P Michalak, Xiapu Luo, Kai Zhou<br>
   40th International Conference on Data Engineering, May 2024, **(CCF-A)**
 - **[TIFS]** <u>Towards Adversarially Robust Recommendation from Adaptive Fraudster Detection</u> <br>
-  Yuni Lai, <u>Yulin Zhu</u>, Wenqi Fan, Xiaoge Zhang, Kai Zhou<br>
+  Yuni Lai, **Yulin Zhu**, Wenqi Fan, Xiaoge Zhang, Kai Zhou<br>
   IEEE Transactions on Information Forensics and Security, October 2023, **(CCF-A)**
 - **[TKDE]** <u>FocusedCleaner: Sanitizing Poisoned Graphs for Robust GNN-based Node Classification</u> <br>
-  <u>Yulin Zhu</u>, Liang Tong, Gaolei Li, Xiapu Luo, Kai Zhou<br>
+  **Yulin Zhu**, Liang Tong, Gaolei Li, Xiapu Luo, Kai Zhou<br>
   IEEE Transactions on Knowledge and Data Engineering, October 2023, **(CCF-A)**
 - **[ICDE]** <u>BinarizedAttack: Structural Poisoning Attacks to Graph-Based Anomaly Detection</u> <br>
-  <u>Yulin Zhu</u>, Yuni Lai, Kaifa Zhao, Xiapu Luo, Mingquan Yuan, Jian Ren, and Kai Zhou   
+  **Yulin Zhu**, Yuni Lai, Kaifa Zhao, Xiapu Luo, Mingquan Yuan, Jian Ren, and Kai Zhou   
   38th International Conference on Data Engineering, May 2022, **(CCF-A)**
 - **[CCS]** <u>Structural Attack Against Graph Based Android Malware Detection</u> <br>
-  Kaifa Zhao, Hao Zhou, <u>Yulin Zhu</u>, Xian Zhan, Kai Zhou, Jianfeng Li, Le Yu, Wei Yuan, Xiapu Luo<br> 
+  Kaifa Zhao, Hao Zhou, **Yulin Zhu**, Xian Zhan, Kai Zhou, Jianfeng Li, Le Yu, Wei Yuan, Xiapu Luo<br> 
   Proceedings of ACM Conference on Computer and Communications Security, November 2021, **(CCF-A)**
 - **[ICDM]** <u>Attacking Similarity-Based Sign Prediction</u> <br>
-  MT Godziszewski, TP Michalak, M Waniek, T Rahwan, Kai Zhou, <u>Yulin Zhu</u><br>
+  MT Godziszewski, TP Michalak, M Waniek, T Rahwan, Kai Zhou, **Yulin Zhu** <br>
   21st IEEE International Conference on Data Mining, December 2021, **(CCF-B)**  
 
 ## Recent Preprints/Under Review
