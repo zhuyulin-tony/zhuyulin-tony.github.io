@@ -49,7 +49,7 @@ Yulin Zhu is a postdoc in the Department of Computing at The Hong Kong Polytechn
   2024 IEEE International Conference on Acoustics, Speech and Signal Processing, April 2024, **(CCF-B, Core-B)**
 - **[ICDE]** <u>Graph Anomaly Detection at Group Level: A Topology Pattern Enhanced Unsupervised Approach</u> <br>
   Xing Ai, Jialong Zhou, **Yulin Zhu**, Gaolei Li, Tomasz P Michalak, Xiapu Luo, Kai Zhou<br>
-  40th International Conference on Data Engineering, May 2024, **(CCF-A, Core-A^*)**
+  40th International Conference on Data Engineering, May 2024, **(CCF-A, Core-A\*)**
 - **[TIFS]** <u>Towards Adversarially Robust Recommendation from Adaptive Fraudster Detection</u> <br>
   Yuni Lai, **Yulin Zhu**, Wenqi Fan, Xiaoge Zhang, Kai Zhou<br>
   IEEE Transactions on Information Forensics and Security, October 2023, **(CCF-A)**
