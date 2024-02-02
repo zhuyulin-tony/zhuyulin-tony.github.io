@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ZHU Yulin"
+title: "ZHU Yulin (Tony)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
