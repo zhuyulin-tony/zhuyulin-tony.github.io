@@ -27,6 +27,7 @@ Yulin Zhu is a postdoc in the Department of Computing at The Hong Kong Polytechn
 - 09/2012 - 06/2016, B.S., Wuhan University
 
 ### Updates
+- 03/2024: One paper was accepted to IEEE S&P 2024.
 - 01/2024: One paper named FlipAttack was accepted to TIFS 2024.
 - 12/2023: Two papers were accepted to ICASSP 2024.
 - 12/2023: One paper was accepted to ICDE 2024.
@@ -38,6 +39,9 @@ Yulin Zhu is a postdoc in the Department of Computing at The Hong Kong Polytechn
 - 08/2021: One paper was accepted to CCS 2021.
 
 ### Selected Publications (More in [Google Scholar](https://scholar.google.com/citations?user=-MGpGisAAAAJ&hl=zh-CN)) 
+- **[IEEE S&P]**  <u>Node-aware Bi-smoothing: Certified Robustness against Graph Injection Attacks</u> <br>
+  Yuni Lai, **Yulin Zhu**, Bailin Pan, Kai Zhou<br>
+  IEEE Symposium on Security and Privacy 2024, **(CCF-A, Core-A\*)**
 - **[TIFS]** <u>Towards Secrecy-Aware Attacks Against Trust Prediction in Signed Social Networks</u> <br>
   **Yulin Zhu**, Tomasz Michalak, Xiapu Luo, Xiaoge Zhang, Kai Zhou<br>
   IEEE Transactions on Information Forensics and Security, January 2024, **(CCF-A, Core-A)**
@@ -81,9 +85,6 @@ Yulin Zhu is a postdoc in the Department of Computing at The Hong Kong Polytechn
   Arxiv 2307.14387, 2023. ([**Arxiv**](https://arxiv.org/abs/2307.14387.pdf))
 - **Unleashing the Power of Indirect Attacks against Trust Prediction via Preferential Path**<br>
   Yu Bu, <u>Yulin Zhu</u>, Longling Geng, Kai Zhou
-- **Node-aware Bi-smoothing: Certified Robustness against Graph Injection Attacks**<br>
-  Yuni Lai, <u>Yulin Zhu</u>, Bailin Pan, Kai Zhou<br>
-  Arxiv 2312.03979, 2023. ([**Arxiv**](https://arxiv.org/pdf/2312.03979.pdf))
 - **Universally Robust Graph Neural Networks by Preserving Neighbor Similarity**<br>
   <u>Yulin Zhu</u>, Yuni Lai, Xing Ai, Kai Zhou<br>
   Arxiv 2401.09754, 2024. ([**Arxiv**](https://arxiv.org/abs/2401.09754))
