@@ -42,7 +42,7 @@ Yulin Zhu is a postdoc in the Department of Computing at The Hong Kong Polytechn
 - **[IEEE S&P]**  <u>Node-aware Bi-smoothing: Certified Robustness against Graph Injection Attacks</u> <br>
   Yuni Lai, **Yulin Zhu**, Bailin Pan, Kai Zhou<br>
   IEEE Symposium on Security and Privacy 2024, **(CCF-A, Core-A\*)**
-- **[TIFS]** <u>Towards Secrecy-Aware Attacks Against Trust Prediction in Signed Social Networks</u> <br>
+- **[TIFS]** <u>Towards Secrecy-Aware Attacks Against Trust Prediction in Signed Social Networks</u> ([**Code**](https://github.com/zhuyulin-tony/SecrecyAttack)) <br>
   **Yulin Zhu**, Tomasz Michalak, Xiapu Luo, Xiaoge Zhang, Kai Zhou<br>
   IEEE Transactions on Information Forensics and Security, January 2024, **(CCF-A, Core-A)**
 - **[ICASSP]** <u>Cost Aware Untargeted Poisoning Attack Against Graph Neural Networks</u> <br>
