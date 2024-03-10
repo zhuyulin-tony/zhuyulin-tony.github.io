@@ -57,10 +57,10 @@ Yulin Zhu is a postdoc in the Department of Computing at The Hong Kong Polytechn
 - **[TIFS]** <u>Towards Adversarially Robust Recommendation from Adaptive Fraudster Detection</u> <br>
   Yuni Lai, **Yulin Zhu**, Wenqi Fan, Xiaoge Zhang, Kai Zhou<br>
   IEEE Transactions on Information Forensics and Security, October 2023, **(CCF-A, Core-A)**
-- **[TKDE]** <u>FocusedCleaner: Sanitizing Poisoned Graphs for Robust GNN-based Node Classification</u> <br>
+- **[TKDE]** <u>FocusedCleaner: Sanitizing Poisoned Graphs for Robust GNN-based Node Classification</u> [**Code**](https://github.com/zhuyulin-tony/focusedcleaner)) <br>
   **Yulin Zhu**, Liang Tong, Gaolei Li, Xiapu Luo, Kai Zhou<br>
   IEEE Transactions on Knowledge and Data Engineering, October 2023, **(CCF-A, Core-A\*)**
-- **[ICDE]** <u>BinarizedAttack: Structural Poisoning Attacks to Graph-Based Anomaly Detection</u> <br>
+- **[ICDE]** <u>BinarizedAttack: Structural Poisoning Attacks to Graph-Based Anomaly Detection</u> [**Code**](https://github.com/zhuyulin-tony/BinarizedAttack)) <br>
   **Yulin Zhu**, Yuni Lai, Kaifa Zhao, Xiapu Luo, Mingquan Yuan, Jian Ren, and Kai Zhou   
   38th International Conference on Data Engineering, May 2022, **(CCF-A, Core-A\*)**
 - **[CCS]** <u>Structural Attack Against Graph Based Android Malware Detection</u> <br>
