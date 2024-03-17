@@ -90,4 +90,4 @@ Yulin Zhu is a postdoc in the Department of Computing at The Hong Kong Polytechn
 - PC Member: AAAI-2023, AAAI-2024.
 
 ### Invited Talks
--07/12/2022 Invited talk titled "BinarizedAttack: Structural Poisoning Attacks to Graph-Based Anomaly Detection" hosted by Shanghai Jiao Tong University, Institute of Cyber Science and Technology.
+- 07/12/2022 Invited talk titled "BinarizedAttack: Structural Poisoning Attacks to Graph-Based Anomaly Detection" hosted by Shanghai Jiao Tong University, Institute of Cyber Science and Technology.
