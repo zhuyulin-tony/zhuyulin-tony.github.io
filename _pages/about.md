@@ -26,18 +26,6 @@ Yulin Zhu is a postdoc in the Department of Computing at The Hong Kong Polytechn
 - 09/2016 - 12/2020, Ph.D., The Chinese University of Hong Kong
 - 09/2012 - 06/2016, B.S., Wuhan University
 
-### Updates
-- 03/2024: One paper was accepted to IEEE S&P 2024.
-- 01/2024: One paper named FlipAttack was accepted to TIFS 2024.
-- 12/2023: Two papers were accepted to ICASSP 2024.
-- 12/2023: One paper was accepted to ICDE 2024.
-- 10/2023: One paper was accepted to TIFS 2023.
-- 10/2023: One paper, FocusedCleaner, was accepted to TKDE 2023.
-- 05/2022: I will be funded as a postdoc with The Hong Kong Polytechnic University Postdoc Matching Fund starting from 07/2022.
-- 11/2021: One paper, BinarizedAttack, was accepted to ICDE 2022.
-- 08/2021: One paper was accepted to ICDM 2021.
-- 08/2021: One paper was accepted to CCS 2021.
-
 ### Selected Publications (More in [Google Scholar](https://scholar.google.com/citations?user=-MGpGisAAAAJ&hl=zh-CN)) 
 - **[IEEE S&P]**  <u>Node-aware Bi-smoothing: Certified Robustness against Graph Injection Attacks</u> <br>
   Yuni Lai, **Yulin Zhu**, Bailin Pan, Kai Zhou<br>
