@@ -29,7 +29,7 @@ Yulin Zhu is a postdoc in the Department of Computing at The Hong Kong Polytechn
 ### Selected Publications (More in [Google Scholar](https://scholar.google.com/citations?user=-MGpGisAAAAJ&hl=zh-CN)) 
 - **[TNNLS]** <u>From Bi-Level to One-Level: A Framework for Structural Attacks to Graph Anomaly Detection</u> <br>
   **Yulin Zhu**, Yuni Lai, Kaifa Zhao, Xiapu Luo, Mingquan Yuan, Jun Wu, Jian Ren, Kai Zhou<br>
-  IEEE Transactions on Neural Networks and Learning Systems, 2024, **(CCF-B, Core-A\*)**
+  IEEE Transactions on Neural Networks and Learning Systems, 2024, **(CCF-B, Core-A\*, IF=14.255)**
 - **[IEEE S&P]**  <u>Node-aware Bi-smoothing: Certified Robustness against Graph Injection Attacks</u> <br>
   Yuni Lai, **Yulin Zhu**, Bailin Pan, Kai Zhou<br>
   IEEE Symposium on Security and Privacy, 2024, **(CCF-A, Core-A\*)**
