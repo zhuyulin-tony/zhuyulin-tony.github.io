@@ -35,7 +35,7 @@ Yulin Zhu is a postdoc in the Department of Computing at The Hong Kong Polytechn
   IEEE Symposium on Security and Privacy, 2024, **(CCF-A, Core-A\*)**
 - **[TIFS]** <u>Towards Secrecy-Aware Attacks Against Trust Prediction in Signed Social Networks</u> ([**Code**](https://github.com/zhuyulin-tony/SecrecyAttack)) <br>
   **Yulin Zhu**, Tomasz Michalak, Xiapu Luo, Xiaoge Zhang, Kai Zhou<br>
-  IEEE Transactions on Information Forensics and Security, January 2024, **(CCF-A, Core-A)**
+  IEEE Transactions on Information Forensics and Security, January 2024, **(CCF-A, Core-A, IF=7.178)**
 - **[ICASSP]** <u>Cost Aware Untargeted Poisoning Attack Against Graph Neural Networks</u> <br>
   Yuwei Han, Yuni Lai, **Yulin Zhu**, Kai Zhou<br>
   2024 IEEE International Conference on Acoustics, Speech and Signal Processing, April 2024, **(CCF-B, Core-B)**
@@ -47,10 +47,10 @@ Yulin Zhu is a postdoc in the Department of Computing at The Hong Kong Polytechn
   40th International Conference on Data Engineering, May 2024, **(CCF-A, Core-A\*)**
 - **[TIFS]** <u>Towards Adversarially Robust Recommendation from Adaptive Fraudster Detection</u> <br>
   Yuni Lai, **Yulin Zhu**, Wenqi Fan, Xiaoge Zhang, Kai Zhou<br>
-  IEEE Transactions on Information Forensics and Security, October 2023, **(CCF-A, Core-A)**
+  IEEE Transactions on Information Forensics and Security, October 2023, **(CCF-A, Core-A, IF=7.178)**
 - **[TKDE]** <u>FocusedCleaner: Sanitizing Poisoned Graphs for Robust GNN-based Node Classification</u> ([**Code**](https://github.com/zhuyulin-tony/focusedcleaner)) <br>
   **Yulin Zhu**, Liang Tong, Gaolei Li, Xiapu Luo, Kai Zhou<br>
-  IEEE Transactions on Knowledge and Data Engineering, October 2023, **(CCF-A, Core-A\*)**
+  IEEE Transactions on Knowledge and Data Engineering, October 2023, **(CCF-A, Core-A\*, IF=8.9)**
 - **[ICDE]** <u>BinarizedAttack: Structural Poisoning Attacks to Graph-Based Anomaly Detection</u> ([**Code**](https://github.com/zhuyulin-tony/BinarizedAttack)) <br>
   **Yulin Zhu**, Yuni Lai, Kaifa Zhao, Xiapu Luo, Mingquan Yuan, Jian Ren, and Kai Zhou   
   38th International Conference on Data Engineering, May 2022, **(CCF-A, Core-A\*)**
