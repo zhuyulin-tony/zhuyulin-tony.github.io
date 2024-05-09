@@ -27,9 +27,12 @@ Yulin Zhu is a postdoc in the Department of Computing at The Hong Kong Polytechn
 - 09/2012 - 06/2016, B.S., Wuhan University
 
 ### Selected Publications (More in [Google Scholar](https://scholar.google.com/citations?user=-MGpGisAAAAJ&hl=zh-CN)) 
+- **[TNNLS]** <u>From Bi-Level to One-Level: A Framework for Structural Attacks to Graph Anomaly Detection</u> <br>
+  <u>Yulin Zhu</u>, Yuni Lai, Kaifa Zhao, Xiapu Luo, Mingquan Yuan, Jun Wu, Jian Ren, Kai Zhou<br>
+  IEEE Transactions on Neural Networks and Learning Systems, 2024, **(CCF-B, Core-A\*)**
 - **[IEEE S&P]**  <u>Node-aware Bi-smoothing: Certified Robustness against Graph Injection Attacks</u> <br>
   Yuni Lai, **Yulin Zhu**, Bailin Pan, Kai Zhou<br>
-  IEEE Symposium on Security and Privacy 2024, **(CCF-A, Core-A\*)**
+  IEEE Symposium on Security and Privacy, 2024, **(CCF-A, Core-A\*)**
 - **[TIFS]** <u>Towards Secrecy-Aware Attacks Against Trust Prediction in Signed Social Networks</u> ([**Code**](https://github.com/zhuyulin-tony/SecrecyAttack)) <br>
   **Yulin Zhu**, Tomasz Michalak, Xiapu Luo, Xiaoge Zhang, Kai Zhou<br>
   IEEE Transactions on Information Forensics and Security, January 2024, **(CCF-A, Core-A)**
@@ -59,9 +62,6 @@ Yulin Zhu is a postdoc in the Department of Computing at The Hong Kong Polytechn
   21st IEEE International Conference on Data Mining, December 2021, **(CCF-B, Core-A\*)**  
 
 ### Recent Preprints/Under Review
-- **From Bi-Level to One-Level: A Framework for Structural Attacks to Graph Anomaly Detection**<br>
-  <u>Yulin Zhu</u>, Yuni Lai, Kaifa Zhao, Xiapu Luo, Mingquan Yuan, Jun Wu, Jian Ren, Kai Zhou<br>
-  Arxiv 2206.08260, 2022. ([**Arxiv**](https://arxiv.org/abs/2206.08260v1))
 - **Simple yet Effective Gradient-Free Graph Convolutional Networks**<br>
   <u>Yulin Zhu</u>, Xing Ai, Qimai Li, Xiao-Ming Wu, Kai Zhou<br>
   Arxiv 2302.00371, 2023. ([**Arxiv**](https://arxiv.org/abs/2302.00371))
