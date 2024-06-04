@@ -16,7 +16,7 @@ redirect_from:
 Yulin Zhu is currently an assistant professor in the Department of Computer Science at Hong Kong Chu Hai College. He was a postdoctoral fellow at The Hong Kong Polytechnic University, supervised by [Prof. Kai Zhou](https://www4.comp.polyu.edu.hk/~kaizhou/). He obtained his B.S. from Wuhan University and Ph.D. from The Chinese University of Hong Kong advised by [Prof. Xiaodan FAN](https://www.sta.cuhk.edu.hk/xfan). His research interests include AI security, data security and privacy, adversarial machine learning and adversarial network analysis.
 
 ### Professional Experience
-- 07/2024 - Now,     Assistant Professor, The Hong Kong Chu Hai College
+- 07/2024 - Now,     Assistant Professor, Hong Kong Chu Hai College
 - 07/2022 - 07/2024, Postdoctoral Fellow, The Hong Kong Polytechnic University, Hong Kong
 - 10/2020 - 06/2022, Research Assistant, The Hong Kong Polytechnic University, Hong Kong
 - 01/2020 - 08/2020, Part-time Research Intern, TCL Moka International Limited, Hong Kong
