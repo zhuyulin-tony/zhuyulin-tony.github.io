@@ -92,8 +92,6 @@ Yulin Zhu is currently an assistant professor in the Department of Computer Scie
 - 07/12/2022 Invited talk titled "BinarizedAttack: Structural Poisoning Attacks to Graph-Based Anomaly Detection" hosted by Shanghai Jiao Tong University, Institute of Cyber Science and Technology.
 
 ### Referees
-Zhou, Kai. Assistant Professor of Computing, The Hong Kong Polytechnic University, 2766 7244, kaizhou@polyu.edu.hk.
-
-Luo, Xiapu. Full Professor of Computing, The Hong Kong Polytechnic University, 2766 7264, daniel.xiapu.luo@polyu.edu.hk. 
-
-Fan, Xiaodan. Full Professor of Statistics, The Chinese University of Hong Kong, 3943 7930, xfan@cuhk.edu.hk.
+- Zhou, Kai. Assistant Professor of Computing, The Hong Kong Polytechnic University, 2766 7244, kaizhou@polyu.edu.hk.
+- Luo, Xiapu. Full Professor of Computing, The Hong Kong Polytechnic University, 2766 7264, daniel.xiapu.luo@polyu.edu.hk. 
+- Fan, Xiaodan. Full Professor of Statistics, The Chinese University of Hong Kong, 3943 7930, xfan@cuhk.edu.hk.
