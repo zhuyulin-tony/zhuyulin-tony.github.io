@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 - Postdoctoral Fellow
-- Department of Computing
+- Department of Computing, The Hong Kong Polytechnic University
 - Email: zhuyulin.tony@gmail.com
 
 ### Biography
