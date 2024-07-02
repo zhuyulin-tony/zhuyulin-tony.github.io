@@ -25,6 +25,9 @@ Yulin Zhu is currently a postdoctoral fellow in the Department of Computing at T
 - 09/2012 - 06/2016, B.S., Wuhan University
 
 ### Selected Publications (More in [Google Scholar](https://scholar.google.com/citations?user=-MGpGisAAAAJ&hl=zh-CN)) 
+- **[AIJ]** <u>Adversarial analysis of similarity-based sign prediction</u> <br>
+  Michał T. Godziszewski, Marcin Waniek, **Yulin Zhu**, Kai Zhou, Talal Rahwan, Tomasz P. Michalak
+  Artificial Intelligence, 2024, **(CCF-A, Core-A\*, IF=14.05)**
 - **[TNNLS]** <u>From Bi-Level to One-Level: A Framework for Structural Attacks to Graph Anomaly Detection</u> ([**Code**](https://github.com/zhuyulin-tony/Attack_GCN_GAD)) <br>
   **Yulin Zhu**, Yuni Lai, Kaifa Zhao, Xiapu Luo, Mingquan Yuan, Jun Wu, Jian Ren, Kai Zhou<br>
   IEEE Transactions on Neural Networks and Learning Systems, 2024, **(CCF-B, Core-A\*, IF=14.255)**
