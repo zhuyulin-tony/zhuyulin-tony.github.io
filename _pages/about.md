@@ -10,8 +10,8 @@ redirect_from:
 
 - Assistant Professor
 - Department of Computer Science, Hong Kong Chu Hai College (HKCHC)
-- Email: zhuyulin.tony@gmail.com, ylzhu@chuhai.edu.hk
-- Office: E601r, Hong Kong Chu Hai College, Castle Peak Bay, Tuen Mun, NT, HKSAR.
+- Email: zhuyulin.tony@gmail.com, ylzhu@chuhai.edu.hk, \st{ff}
+- Office: E601r, Hong Kong Chu Hai College, No. 80 Castle Peak Bay,  Tuen Mun, NT, HKSAR.
 
 ### Biography
 Yulin Zhu is currently an assistant professor in the Department of Computer Science at Hong Kong Chu Hai College (HKCHC). Before on board, he served as a postdoctoral research fellow at Hong Kong Polytechnic University (PolyU) and was supervised by [Prof. Kai Zhou](https://www4.comp.polyu.edu.hk/~kaizhou/). He obtained his B.S. from Wuhan University and Ph.D. from The Chinese University of Hong Kong advised by [Prof. Xiaodan FAN](https://www.sta.cuhk.edu.hk/xfan). His research interests include AI security, data security and privacy, adversarial machine learning and adversarial network analysis.
