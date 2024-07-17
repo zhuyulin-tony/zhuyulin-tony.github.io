@@ -10,7 +10,7 @@ redirect_from:
 
 - Assistant Professor
 - Department of Computer Science, Hong Kong Chu Hai College (HKCHC)
-- Email: zhuyulin.tony@gmail.com, ylzhu@chuhai.edu.hk, \st{ff}
+- Email: zhuyulin.tony@gmail.com, ylzhu@chuhai.edu.hk, ~~yulinzhu@polyu.edu.hk~~
 - Office: E601r, Hong Kong Chu Hai College, No. 80 Castle Peak Bay,  Tuen Mun, NT, HKSAR.
 
 ### Biography
