@@ -20,7 +20,7 @@ Yulin Zhu is currently an assistant professor in the Department of Computer Scie
 - 07/2024 - Present, Assistant Professor, Hong Kong Chu Hai College (HKCHC), Tuen Mun, HKSAR.
 - 07/2022 - 07/2024, Postdoctoral Fellow, Hong Kong Polytechnic University (PolyU), Hung Hom, HKSAR. 
 - 10/2020 - 06/2022, Research Assistant, Hong Kong Polytechnic University (PolyU), Hung Hom, HKSAR.
-- 09/2016 - 12/2020, Teaching Assistant, The Chinese University of Hong Kong (CUHK), Sha Tin, HKSAR.
+- 09/2016 - 10/2020, Teaching Assistant, The Chinese University of Hong Kong (CUHK), Sha Tin, HKSAR.
 - 01/2020 - 08/2020, Part-time Research Intern, TCL Moka International Limited, Sha Tin, HKSAR.
 
 ### Education
