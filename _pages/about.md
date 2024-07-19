@@ -17,13 +17,15 @@ redirect_from:
 Yulin Zhu is currently an assistant professor in the Department of Computer Science at Hong Kong Chu Hai College (HKCHC). Before on board, he served as a postdoctoral research fellow at Hong Kong Polytechnic University (PolyU) and was supervised by [Prof. Kai Zhou](https://www4.comp.polyu.edu.hk/~kaizhou/). He obtained his B.S. from Wuhan University and Ph.D. from The Chinese University of Hong Kong advised by [Prof. Xiaodan FAN](https://www.sta.cuhk.edu.hk/xfan). His research interests include AI security, data security and privacy, adversarial machine learning and adversarial network analysis.
 
 ### Professional Experience
-- 07/2022 - 07/2024, Postdoctoral Fellow, The Hong Kong Polytechnic University, Hong Kong
-- 10/2020 - 06/2022, Research Assistant, The Hong Kong Polytechnic University, Hong Kong
-- 01/2020 - 08/2020, Part-time Research Intern, TCL Moka International Limited, Hong Kong
+- 07/2024 - Present, Assistant Professor, Hong Kong Chu Hai College (HKCHC), Tuen Mun, HKSAR.
+- 07/2022 - 07/2024, Postdoctoral Fellow, Hong Kong Polytechnic University (PolyU), Hung Hom, HKSAR. 
+- 10/2020 - 06/2022, Research Assistant, Hong Kong Polytechnic University (PolyU), Hung Hom, HKSAR.
+- 09/2016 - 12/2020, Teaching Assistant, The Chinese University of Hong Kong (CUHK), Sha Tin, HKSAR.
+- 01/2020 - 08/2020, Part-time Research Intern, TCL Moka International Limited, Sha Tin, HKSAR.
 
 ### Education
-- 09/2016 - 12/2020, Ph.D., The Chinese University of Hong Kong
-- 09/2012 - 06/2016, B.S., Wuhan University
+- 09/2016 - 12/2020, Ph.D., The Chinese University of Hong Kong (CUHK)
+- 09/2012 - 06/2016, B.S., Wuhan University (WHU)
 
 ### Selected Publications (More in [Google Scholar](https://scholar.google.com/citations?user=-MGpGisAAAAJ&hl=zh-CN)) 
 - **[AIJ]** <u>Adversarial Analysis of Similarity-Based Sign Prediction</u> <br>
