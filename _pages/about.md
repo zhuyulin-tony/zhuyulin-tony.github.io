@@ -100,6 +100,6 @@ AI Security, Adversarial Network Analysis, Trustworthy Graph Learning, Graph Min
 - 07/12/2022 Invited talk titled "BinarizedAttack: Structural Poisoning Attacks to Graph-Based Anomaly Detection" hosted by Shanghai Jiao Tong University, Institute of Cyber Science and Technology.
 
 ### Referees
-- Zhou, Kai. Assistant Professor of Computing, The Hong Kong Polytechnic University, 2766 7244, kaizhou@polyu.edu.hk.
-- Luo, Xiapu. Full Professor of Computing, The Hong Kong Polytechnic University, 2766 7264, daniel.xiapu.luo@polyu.edu.hk. 
-- Fan, Xiaodan. Full Professor of Statistics, The Chinese University of Hong Kong, 3943 7930, xfan@cuhk.edu.hk.
+- ([**Zhou, Kai**](https://www4.comp.polyu.edu.hk/~kaizhou/)). Assistant Professor of Computing, The Hong Kong Polytechnic University, 2766 7244, kaizhou@polyu.edu.hk.
+- ([**Luo, Xiapu**](https://www4.comp.polyu.edu.hk/~csxluo/)). Full Professor of Computing, The Hong Kong Polytechnic University, 2766 7264, daniel.xiapu.luo@polyu.edu.hk. 
+- ([**Fan, Xiaodan**](https://www.sta.cuhk.edu.hk/xfan)). Full Professor of Statistics, The Chinese University of Hong Kong, 3943 7930, xfan@cuhk.edu.hk.
