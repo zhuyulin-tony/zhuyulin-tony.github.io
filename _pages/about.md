@@ -88,7 +88,6 @@ AI Security, Adversarial Network Analysis, Trustworthy Graph Learning, Graph Min
 - Discrete Math (CSC031), Lecture, Department of Computer Science, HKCHC
 - Artificial Intelligence (RAI604), Lecture, Department of Computer Science, HKCHC
 - Machine Learning (RAI605), Lecture, Department of Computer Science, HKCHC
-
 - Introduction to Statistics (STAT1011), Tutorial, STAT, CUHK
 - Basic Methods in Biomedical Statistics (STAT3004), Tutorial, STAT, CUHK
 - Statistical Techniques in Life Science (STAT3210), Tutorial, STAT, CUHK
