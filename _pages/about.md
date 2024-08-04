@@ -85,10 +85,14 @@ AI Security, Adversarial Network Analysis, Trustworthy Graph Learning, Graph Min
   Arxiv 2401.09754, 2024. ([**Arxiv**](https://arxiv.org/abs/2401.09754))
 
 ### Teaching Experience
-- Introduction to Statistics (STAT1011), Teaching Assistant, STAT, CUHK
-- Basic Methods in Biomedical Statistics (STAT3004), Teaching Assistant, STAT, CUHK
-- Statistical Techniques in Life Science (STAT3210), Teaching Assistant, STAT, CUHK
-- Statistics Projects (STAT4011), Teaching Assistant, STAT, CUHK
+- Discrete Math (CSC031), Lecture, Department of Computer Science, HKCHC
+- Artificial Intelligence (RAI604), Lecture, Department of Computer Science, HKCHC
+- Machine Learning (RAI605), Lecture, Department of Computer Science, HKCHC
+
+- Introduction to Statistics (STAT1011), Tutorial, STAT, CUHK
+- Basic Methods in Biomedical Statistics (STAT3004), Tutorial, STAT, CUHK
+- Statistical Techniques in Life Science (STAT3210), Tutorial, STAT, CUHK
+- Statistics Projects (STAT4011), Tutorial, STAT, CUHK
 
 ### Community Service
 - Subreviewer: CIKM-2022, AAMAS-2022, AAMAS-2023, AAMAS-2024, ECAI-2023, CIKM-2023, SecureComm-2023.
