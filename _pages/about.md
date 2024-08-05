@@ -97,7 +97,7 @@ AI Security, Adversarial Network Analysis, Trustworthy Graph Learning, Graph Min
 - Subreviewer: CIKM-2022, AAMAS-2022, AAMAS-2023, AAMAS-2024, ECAI-2023, CIKM-2023, SecureComm-2023.
 - External Reviewer: KDD-2022.
 - Reviewer: IET Communications, TDSC, TKDD, IoTJ, KDD-2024, TNNLS, ACML-2024.
-- PC Member: AAAI-2023, AAAI-2024.
+- Program Committee: AAAI-2023, AAAI-2024, AAAI-2025.
 
 ### Invited Talks
 - 07/12/2022 Invited talk titled "BinarizedAttack: Structural Poisoning Attacks to Graph-Based Anomaly Detection" hosted by Shanghai Jiao Tong University, Institute of Cyber Science and Technology.
