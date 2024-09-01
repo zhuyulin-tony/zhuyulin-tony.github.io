@@ -83,6 +83,9 @@ AI Security, Adversarial Network Analysis, Trustworthy Graph Learning, Graph Min
 - **Universally Robust Graph Neural Networks by Preserving Neighbor Similarity**<br>
   <u>Yulin Zhu</u>, Yuni Lai, Xing Ai, Kai Zhou<br>
   Arxiv 2401.09754, 2024. ([**Arxiv**](https://arxiv.org/abs/2401.09754))
+- **SFR-GNN: Simple and Fast Robust GNNs against Structural Attacks**<br>
+  Xing Ai, Guanyu Zhu, <u>Yulin Zhu</u>, Yu Zheng, Gaolei Li, Jianhua Li, Kai Zhou<br>
+  Arxiv 2408.16537, 2024. ([**Arxiv**](https://arxiv.org/pdf/2408.16537))
 
 ### Teaching Experience
 - Discrete Math (CSC031), Lecture, Department of Computer Science, HKCHC
