@@ -90,13 +90,14 @@ AI Security, Adversarial Network Analysis, Trustworthy Graph Learning, Graph Min
   Yu Bu, <u>Yulin Zhu</u>, Kai Zhou
 
 ### Teaching Experience
+- Capstone Project for MSCAAI, Supervisor, Department of Computer Science, HKCHC
 - Discrete Math (CSC031), Lecture, Department of Computer Science, HKCHC
 - Artificial Intelligence (RAI604), Lecture, Department of Computer Science, HKCHC
 - Machine Learning (RAI605), Lecture, Department of Computer Science, HKCHC
-- Introduction to Statistics (STAT1011), Tutorial, STAT, CUHK
-- Basic Methods in Biomedical Statistics (STAT3004), Tutorial, STAT, CUHK
-- Statistical Techniques in Life Science (STAT3210), Tutorial, STAT, CUHK
-- Statistics Projects (STAT4011), Tutorial, STAT, CUHK
+- Introduction to Statistics (STAT1011), Tutorial, Department of Statistics, CUHK
+- Basic Methods in Biomedical Statistics (STAT3004), Tutorial, Department of Statistics, CUHK
+- Statistical Techniques in Life Science (STAT3210), Tutorial, Department of Statistics, CUHK
+- Statistics Projects (STAT4011), Tutorial, Department of Statistics, CUHK
 
 ### Community Services
 - Subreviewer: CIKM-2022, AAMAS-2022, AAMAS-2023, AAMAS-2024, ECAI-2023, CIKM-2023, SecureComm-2023.
