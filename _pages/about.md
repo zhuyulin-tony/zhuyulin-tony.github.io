@@ -27,7 +27,7 @@ Yulin Zhu is currently an assistant professor in the Department of Computer Scie
 - 09/2016 - 12/2020, Ph.D., The Chinese University of Hong Kong (CUHK)
 - 09/2012 - 06/2016, B.S., Wuhan University (WHU)
 
-### Research Interest
+### Research Interests
 AI Security, Adversarial Network Analysis, Trustworthy Graph Learning, Graph Mining.
 
 ### Selected Publications (More in [Google Scholar](https://scholar.google.com/citations?user=-MGpGisAAAAJ&hl=zh-CN)) 
@@ -98,7 +98,7 @@ AI Security, Adversarial Network Analysis, Trustworthy Graph Learning, Graph Min
 - Statistical Techniques in Life Science (STAT3210), Tutorial, STAT, CUHK
 - Statistics Projects (STAT4011), Tutorial, STAT, CUHK
 
-### Community Service
+### Community Services
 - Subreviewer: CIKM-2022, AAMAS-2022, AAMAS-2023, AAMAS-2024, ECAI-2023, CIKM-2023, SecureComm-2023.
 - External Reviewer: KDD-2022.
 - Reviewer: IET Communications, TDSC, TKDD, IoTJ, KDD-2024, TNNLS, ACML-2024, ICASSP-2025.
