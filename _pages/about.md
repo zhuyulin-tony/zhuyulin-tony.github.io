@@ -31,6 +31,9 @@ Yulin Zhu is currently an assistant professor in the Department of Computer Scie
 AI Security, Adversarial Network Analysis, Trustworthy Graph Learning, Graph Mining.
 
 ### Selected Publications (More in [Google Scholar](https://scholar.google.com/citations?user=-MGpGisAAAAJ&hl=zh-CN)) 
+- **[TIFS]** <u>Coupled-Space Attacks against Random-Walk-based Anomaly Detection</u> <be>
+  Yuni Lai, Marcin Waniek, Liying Li, Jingwen Wu, **Yulin Zhu**, Tomasz P. Michalak, Talal Rahwan, Kai Zhou<br>
+  IEEE Transactions on Information Forensics and Security, Sep. 2024, **(CCF-A, Core-A, IF=7.178)**
 - **[AIJ]** <u>Adversarial Analysis of Similarity-Based Sign Prediction</u> <br>
   Michał T. Godziszewski, Marcin Waniek, **Yulin Zhu**, Kai Zhou, Talal Rahwan, Tomasz P. Michalak<br>
   Artificial Intelligence, Elsevier, 2024, **(CCF-A, Core-A\*, IF=14.05)**
@@ -75,9 +78,6 @@ AI Security, Adversarial Network Analysis, Trustworthy Graph Learning, Graph Min
 - **Homophily-Driven Sanitation View for Robust Graph Contrastive Learning**<br>
   <u>Yulin Zhu</u>, Xing Ai, Yevgeniy Vorobeychik, Kai Zhou<br>
   Arxiv 2307.12555, 2023. ([**Arxiv**](https://arxiv.org/pdf/2307.12555.pdf))
-- **Coupled-Space Attacks against Random-Walk-based Anomaly Detection**<br>
-  Yuni Lai, Marcin Waniek, Liying Li, Jingwen Wu, <u>Yulin Zhu</u>, Tomasz P. Michalak, Talal Rahwan, Kai Zhou<br>
-  Arxiv 2307.14387, 2023. ([**Arxiv**](https://arxiv.org/abs/2307.14387.pdf))
 - **Unleashing the Power of Indirect Attacks against Trust Prediction via Preferential Path**<br>
   Yu Bu, <u>Yulin Zhu</u>, Longling Geng, Kai Zhou
 - **Universally Robust Graph Neural Networks by Preserving Neighbor Similarity**<br>
