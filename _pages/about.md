@@ -71,7 +71,7 @@ AI Security, Adversarial Network Analysis, Trustworthy Graph Learning, Graph Min
   MT Godziszewski, TP Michalak, M Waniek, T Rahwan, Kai Zhou, **Yulin Zhu** <br>
   21st IEEE International Conference on Data Mining, December 2021, **(CCF-B, Core-A\*)**  
 
-### Recent Preprints/Under Review
+### Recent Preprints/Under Review/Working papers
 - **Simple yet Effective Gradient-Free Graph Convolutional Networks**<br>
   <u>Yulin Zhu</u>, Xing Ai, Qimai Li, Xiao-Ming Wu, Kai Zhou<br>
   Arxiv 2302.00371, 2023. ([**Arxiv**](https://arxiv.org/abs/2302.00371))
@@ -86,6 +86,8 @@ AI Security, Adversarial Network Analysis, Trustworthy Graph Learning, Graph Min
 - **SFR-GNN: Simple and Fast Robust GNNs against Structural Attacks**<br>
   Xing Ai, Guanyu Zhu, <u>Yulin Zhu</u>, Yu Zheng, Gaolei Li, Jianhua Li, Kai Zhou<br>
   Arxiv 2408.16537, 2024. ([**Arxiv**](https://arxiv.org/pdf/2408.16537))
+- **Crowdsourced Homophily Ties Based Graph Annotation Via Large Language Model**<be>
+  Yu Bu, <u>Yulin Zhu</u>, Kai Zhou
 
 ### Teaching Experience
 - Discrete Math (CSC031), Lecture, Department of Computer Science, HKCHC
