@@ -86,7 +86,7 @@ AI Security, Adversarial Network Analysis, Trustworthy Graph Learning, Graph Min
 - **SFR-GNN: Simple and Fast Robust GNNs against Structural Attacks**<br>
   Xing Ai, Guanyu Zhu, <u>Yulin Zhu</u>, Yu Zheng, Gaolei Li, Jianhua Li, Kai Zhou<br>
   Arxiv 2408.16537, 2024. ([**Arxiv**](https://arxiv.org/pdf/2408.16537))
-- **Crowdsourced Homophily Ties Based Graph Annotation Via Large Language Model**<be>
+- **Crowdsourced Homophily Ties Based Graph Annotation Via Large Language Model**<br>
   Yu Bu, <u>Yulin Zhu</u>, Kai Zhou
 
 ### Teaching Experience
