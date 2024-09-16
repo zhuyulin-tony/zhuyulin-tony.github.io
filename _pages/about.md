@@ -31,7 +31,7 @@ Yulin Zhu is currently an assistant professor in the Department of Computer Scie
 AI Security, Adversarial Network Analysis, Trustworthy Graph Learning, Graph Mining.
 
 ### Selected Publications (More in [Google Scholar](https://scholar.google.com/citations?user=-MGpGisAAAAJ&hl=zh-CN)) 
-- **[TIFS]** <u>Coupled-Space Attacks against Random-Walk-based Anomaly Detection</u> <be>
+- **[TIFS]** <u>Coupled-Space Attacks against Random-Walk-based Anomaly Detection</u> <br>
   Yuni Lai, Marcin Waniek, Liying Li, Jingwen Wu, **Yulin Zhu**, Tomasz P. Michalak, Talal Rahwan, Kai Zhou<br>
   IEEE Transactions on Information Forensics and Security, Sep. 2024, **(CCF-A, Core-A, IF=7.178)**
 - **[AIJ]** <u>Adversarial Analysis of Similarity-Based Sign Prediction</u> <br>
