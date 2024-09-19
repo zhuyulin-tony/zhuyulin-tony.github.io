@@ -28,7 +28,7 @@ Yulin Zhu is currently an assistant professor in the Department of Computer Scie
 - 09/2012 - 06/2016, B.S., Wuhan University (WHU)
 
 ### Research Interests
-AI Security, Adversarial Network Analysis, Trustworthy Graph Learning, Graph Mining.
+AI Security, Adversarial Network Analysis, Trustworthy Graph Learning, Graph Mining, Adversarial Robustness.
 
 ### Selected Publications (More in [Google Scholar](https://scholar.google.com/citations?user=-MGpGisAAAAJ&hl=zh-CN)) 
 - **[TIFS]** <u>Coupled-Space Attacks against Random-Walk-based Anomaly Detection</u> <br>
