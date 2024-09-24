@@ -33,43 +33,43 @@ AI Security, Adversarial Network Analysis, Trustworthy Graph Learning, Graph Min
 ### Selected Publications (More in [Google Scholar](https://scholar.google.com/citations?user=-MGpGisAAAAJ&hl=zh-CN)) 
 - **[TIFS]** <u>Coupled-Space Attacks against Random-Walk-based Anomaly Detection</u> <br>
   Yuni Lai, Marcin Waniek, Liying Li, Jingwen Wu, **Yulin Zhu**, Tomasz P. Michalak, Talal Rahwan, Kai Zhou<br>
-  IEEE Transactions on Information Forensics and Security, Sep. 2024, **(CCF A, Core A, TH-CPL A, IF=7.178)**
+  IEEE Transactions on Information Forensics and Security, Sep. 2024, **(CCF A, Core A, IF=7.178)**
 - **[AIJ]** <u>Adversarial Analysis of Similarity-Based Sign Prediction</u> <br>
   Michał T. Godziszewski, Marcin Waniek, **Yulin Zhu**, Kai Zhou, Talal Rahwan, Tomasz P. Michalak<br>
-  Artificial Intelligence, Elsevier, 2024, **(CCF A, Core A\*, TH-CPL A, IF=14.05)**
+  Artificial Intelligence, Elsevier, 2024, **(CCF A, Core A\*, IF=14.05)**
 - **[TNNLS]** <u>From Bi-Level to One-Level: A Framework for Structural Attacks to Graph Anomaly Detection</u> ([**Code**](https://github.com/zhuyulin-tony/Attack_GCN_GAD)) <br>
   **Yulin Zhu**, Yuni Lai, Kaifa Zhao, Xiapu Luo, Mingquan Yuan, Jun Wu, Jian Ren, Kai Zhou<br>
-  IEEE Transactions on Neural Networks and Learning Systems, 2024, **(CCF B, Core A\*, TH-CPL B, IF=14.255)**
+  IEEE Transactions on Neural Networks and Learning Systems, 2024, **(CCF B, Core A\*, IF=14.255)**
 - **[IEEE S&P]**  <u>Node-aware Bi-smoothing: Certified Robustness against Graph Injection Attacks</u> <br>
   Yuni Lai, **Yulin Zhu**, Bailin Pan, Kai Zhou<br>
-  IEEE Symposium on Security and Privacy, 2024, **(CCF A, Core A\*, TH-CPL A)**
+  IEEE Symposium on Security and Privacy, 2024, **(CCF A, Core A\*)**
 - **[TIFS]** <u>Towards Secrecy-Aware Attacks Against Trust Prediction in Signed Social Networks</u> ([**Code**](https://github.com/zhuyulin-tony/SecrecyAttack)) <br>
   **Yulin Zhu**, Tomasz Michalak, Xiapu Luo, Xiaoge Zhang, Kai Zhou<br>
-  IEEE Transactions on Information Forensics and Security, January 2024, **(CCF A, Core A, TH-CPL A, IF=7.178)**
+  IEEE Transactions on Information Forensics and Security, January 2024, **(CCF A, Core A, IF=7.178)**
 - **[ICASSP]** <u>Cost Aware Untargeted Poisoning Attack Against Graph Neural Networks</u> <br>
   Yuwei Han, Yuni Lai, **Yulin Zhu**, Kai Zhou<br>
-  2024 IEEE International Conference on Acoustics, Speech and Signal Processing, April 2024, **(CCF B, Core B, TH-CPL B)**
+  2024 IEEE International Conference on Acoustics, Speech and Signal Processing, April 2024, **(CCF B, Core B)**
 - **[ICASSP]** <u>Uncovering Strong Ties: A Study of Indirect Sybil Attack on Signed Social Network</u> <br>
   Yu Bu, **Yulin Zhu**, Longling Geng, Kai Zhou<br>
-  2024 IEEE International Conference on Acoustics, Speech and Signal Processing, April 2024, **(CCF B, Core B, TH-CPL B)**
+  2024 IEEE International Conference on Acoustics, Speech and Signal Processing, April 2024, **(CCF B, Core B)**
 - **[ICDE]** <u>Graph Anomaly Detection at Group Level: A Topology Pattern Enhanced Unsupervised Approach</u> <br>
   Xing Ai, Jialong Zhou, **Yulin Zhu**, Gaolei Li, Tomasz P Michalak, Xiapu Luo, Kai Zhou<br>
-  40th International Conference on Data Engineering, May 2024, **(CCF A, Core A\*, TH-CPL A)**
+  40th International Conference on Data Engineering, May 2024, **(CCF A, Core A\*)**
 - **[TIFS]** <u>Towards Adversarially Robust Recommendation from Adaptive Fraudster Detection</u> <br>
   Yuni Lai, **Yulin Zhu**, Wenqi Fan, Xiaoge Zhang, Kai Zhou<br>
-  IEEE Transactions on Information Forensics and Security, October 2023, **(CCF A, Core A, TH-CPL A, IF=7.178)**
+  IEEE Transactions on Information Forensics and Security, October 2023, **(CCF A, Core A, IF=7.178)**
 - **[TKDE]** <u>FocusedCleaner: Sanitizing Poisoned Graphs for Robust GNN-based Node Classification</u> ([**Code**](https://github.com/zhuyulin-tony/focusedcleaner)) <br>
   **Yulin Zhu**, Liang Tong, Gaolei Li, Xiapu Luo, Kai Zhou<br>
-  IEEE Transactions on Knowledge and Data Engineering, October 2023, **(CCF A, Core A\*, TH-CPL A, IF=8.9)**
+  IEEE Transactions on Knowledge and Data Engineering, October 2023, **(CCF A, Core A\*, IF=8.9)**
 - **[ICDE]** <u>BinarizedAttack: Structural Poisoning Attacks to Graph-Based Anomaly Detection</u> ([**Code**](https://github.com/zhuyulin-tony/BinarizedAttack)) <br>
   **Yulin Zhu**, Yuni Lai, Kaifa Zhao, Xiapu Luo, Mingquan Yuan, Jian Ren, and Kai Zhou   
-  38th International Conference on Data Engineering, May 2022, **(CCF A, Core A\*, TH-CPL A)**
+  38th International Conference on Data Engineering, May 2022, **(CCF A, Core A\*)**
 - **[CCS]** <u>Structural Attack Against Graph Based Android Malware Detection</u> <br>
   Kaifa Zhao, Hao Zhou, **Yulin Zhu**, Xian Zhan, Kai Zhou, Jianfeng Li, Le Yu, Wei Yuan, Xiapu Luo<br> 
-  Proceedings of ACM Conference on Computer and Communications Security, November 2021, **(CCF A, Core A\*, TH-CPL A)**
+  Proceedings of ACM Conference on Computer and Communications Security, November 2021, **(CCF A, Core A\*)**
 - **[ICDM]** <u>Attacking Similarity-Based Sign Prediction</u> <br>
   MT Godziszewski, TP Michalak, M Waniek, T Rahwan, Kai Zhou, **Yulin Zhu** <br>
-  21st IEEE International Conference on Data Mining, December 2021, **(CCF B, Core A\*, TH-CPL A)**  
+  21st IEEE International Conference on Data Mining, December 2021, **(CCF B, Core A\*)**  
 
 ### Recent Preprints/Under Review/Working papers
 - **Simple yet Effective Gradient-Free Graph Convolutional Networks**<br>
