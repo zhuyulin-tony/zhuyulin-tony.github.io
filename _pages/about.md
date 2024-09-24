@@ -39,7 +39,7 @@ AI Security, Adversarial Network Analysis, Trustworthy Graph Learning, Graph Min
   Artificial Intelligence, Elsevier, 2024, **(CCF A, Core A\*, TH-CPL A, IF=14.05)**
 - **[TNNLS]** <u>From Bi-Level to One-Level: A Framework for Structural Attacks to Graph Anomaly Detection</u> ([**Code**](https://github.com/zhuyulin-tony/Attack_GCN_GAD)) <br>
   **Yulin Zhu**, Yuni Lai, Kaifa Zhao, Xiapu Luo, Mingquan Yuan, Jun Wu, Jian Ren, Kai Zhou<br>
-  IEEE Transactions on Neural Networks and Learning Systems, 2024, **(CCF B, Core A\*, TH-CPL A, IF=14.255)**
+  IEEE Transactions on Neural Networks and Learning Systems, 2024, **(CCF B, Core A\*, TH-CPL B, IF=14.255)**
 - **[IEEE S&P]**  <u>Node-aware Bi-smoothing: Certified Robustness against Graph Injection Attacks</u> <br>
   Yuni Lai, **Yulin Zhu**, Bailin Pan, Kai Zhou<br>
   IEEE Symposium on Security and Privacy, 2024, **(CCF A, Core A\*, TH-CPL A)**
