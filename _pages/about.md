@@ -34,7 +34,7 @@ AI Security, Adversarial Network Analysis, Trustworthy Graph Learning, Graph Min
 - **[TIFS]** <u>Coupled-Space Attacks against Random-Walk-based Anomaly Detection</u> <br>
   Yuni Lai, Marcin Waniek, Liying Li, Jingwen Wu, **Yulin Zhu**, Tomasz P. Michalak, Talal Rahwan, Kai Zhou<br>
   IEEE Transactions on Information Forensics and Security, Sep. 2024, **(CCF A, Core A, IF=7.178)**
-- **[AIJ]** <u>Adversarial Analysis of Similarity-Based Sign Prediction</u> <br>
+- **[AI]** <u>Adversarial Analysis of Similarity-Based Sign Prediction</u> <br>
   Michał T. Godziszewski, Marcin Waniek, **Yulin Zhu**, Kai Zhou, Talal Rahwan, Tomasz P. Michalak<br>
   Artificial Intelligence, Elsevier, 2024, **(CCF A, Core A\*, IF=14.05)**
 - **[TNNLS]** <u>From Bi-Level to One-Level: A Framework for Structural Attacks to Graph Anomaly Detection</u> ([**Code**](https://github.com/zhuyulin-tony/Attack_GCN_GAD)) <br>
