@@ -90,6 +90,7 @@ AI Security, Adversarial Network Analysis, Trustworthy Graph Learning, Graph Min
   Yu Bu, <u>Yulin Zhu</u>, Kai Zhou
 
 ### Teaching Experience
+- Final Year Projects for UG, Co-Supervisor, Department of Computer Science, HKCHC
 - Capstone Projects (RAI601), Supervisor, Department of Computer Science, HKCHC
 - Discrete Math (CSC031), Lecture, Department of Computer Science, HKCHC
 - Artificial Intelligence (RAI604), Lecture, Department of Computer Science, HKCHC
